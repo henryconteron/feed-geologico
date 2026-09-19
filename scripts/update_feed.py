@@ -58,7 +58,8 @@ def fetch_topic(topic:str,query:str)->list[dict]:
         posts.append({
             "id":f"doi:{doi}","title":work["title"].strip(),"authors":[a for a in authors if a],
             "published":work["publication_date"],"topic":topic,"venue":source,
-            "abstract_original":abstract_from_index(work.get("abstract_inverted_index")),\n            "abstract_language":"source", "explanation_es":"", "application":"",
+            "abstract_original":abstract_from_index(work.get("abstract_inverted_index")),
+            "abstract_language":"source", "explanation_es":"", "application":"",
             "url":f"https://doi.org/{doi}","doi":doi,"status":"automatic","source":"OpenAlex",
         })
     return posts
