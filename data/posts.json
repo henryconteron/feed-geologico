@@ -1,18 +1,4 @@
 {
   "updated": "2026-09-19",
-  "posts": [
-    {
-      "id": "doi:10.1038/s41561-024-01478-2",
-      "title": "Fault slip and earthquake recurrence in active tectonic systems",
-      "authors": ["Registro de demostración"],
-      "published": "2026-09-19",
-      "topic": "Tectónica activa",
-      "venue": "Catálogo de demostración",
-      "abstract": "Esta tarjeta demuestra la interfaz y será sustituida por metadatos reales en la primera ejecución automática.",
-      "url": "https://doi.org/10.1038/s41561-024-01478-2",
-      "doi": "10.1038/s41561-024-01478-2",
-      "status": "automatic",
-      "source": "demo"
-    }
-  ]
+  "posts": []
 }
