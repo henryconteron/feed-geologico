@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Feed científico verificable de geociencias: artículos recientes, DOI y fuentes primarias.">
+  <meta name="theme-color" content="#071d1a">
+  <title>GeoPulso · Feed geológico</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,650&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#feed">Saltar al contenido</a>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="GeoPulso, inicio">
+      <span class="brand-mark" aria-hidden="true">G</span>
+      <span><strong>GeoPulso</strong><small>Geociencias verificadas</small></span>
+    </a>
+    <nav aria-label="Principal">
+      <a href="#feed">Explorar</a>
+      <a href="#method">Método</a>
+      <a class="button button-small" href="https://github.com/henryconteron/feed-geologico/issues/new?template=proponer-contenido.yml" target="_blank" rel="noopener">Proponer fuente</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">CIENCIA ABIERTA · ACTUALIZACIÓN DIARIA</p>
+        <h1>La geología reciente,<br><em>sin ruido.</em></h1>
+        <p class="lede">Un feed curado de artículos científicos con DOI, autores y fuente original. La automatización encuentra; la evidencia decide.</p>
+        <div class="hero-actions">
+          <a class="button" href="#feed">Ver publicaciones</a>
+          <a class="text-link" href="#method">Cómo verificamos <span aria-hidden="true">→</span></a>
+        </div>
+      </div>
+      <aside class="hero-stat" aria-label="Estado del catálogo">
+        <span id="total-count">—</span>
+        <p>registros trazables</p>
+        <small id="last-update">Cargando catálogo…</small>
+      </aside>
+    </section>
+
+    <section class="explore" id="feed">
+      <div class="section-heading">
+        <div><p class="eyebrow">EXPLORAR</p><h2>Últimas incorporaciones</h2></div>
+        <p id="results-summary" aria-live="polite"></p>
+      </div>
+
+      <div class="toolbar">
+        <label class="search">
+          <span class="sr-only">Buscar publicaciones</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg>
+          <input id="search" type="search" placeholder="Buscar por título, autor o tema…" autocomplete="off">
+        </label>
+        <select id="sort" aria-label="Ordenar publicaciones">
+          <option value="newest">Más recientes</option>
+          <option value="oldest">Más antiguas</option>
+          <option value="title">Título A–Z</option>
+        </select>
+      </div>
+
+      <div class="chips" id="topic-filters" aria-label="Filtrar por tema"></div>
+      <div class="feed-grid" id="feed-grid" aria-live="polite"></div>
+      <div class="empty" id="empty-state" hidden>
+        <h3>No encontramos coincidencias</h3>
+        <p>Prueba otra palabra o limpia el filtro.</p>
+        <button class="button button-small" id="clear-filters">Limpiar filtros</button>
+      </div>
+    </section>
+
+    <section class="method" id="method">
+      <div>
+        <p class="eyebrow">MÉTODO</p>
+        <h2>Automático en la búsqueda.<br>Transparente en la evidencia.</h2>
+      </div>
+      <ol>
+        <li><span>01</span><div><h3>Descubrimiento</h3><p>OpenAlex consulta temas geológicos definidos y recupera metadatos académicos públicos.</p></div></li>
+        <li><span>02</span><div><h3>Trazabilidad</h3><p>Solo se incorporan registros con DOI o página original, fecha, autoría y fuente identificable.</p></div></li>
+        <li><span>03</span><div><h3>Revisión visible</h3><p>Cada tarjeta indica si el registro fue incorporado automáticamente o revisado manualmente.</p></div></li>
+      </ol>
+    </section>
+  </main>
+
+  <footer>
+    <div><strong>GeoPulso</strong><p>Proyecto independiente de divulgación científica.</p></div>
+    <div><p>Creado por Henry P. Conteron Moreta</p><a href="https://github.com/henryconteron/feed-geologico" target="_blank" rel="noopener">Código y metodología ↗</a></div>
+  </footer>
+
+  <template id="card-template">
+    <article class="card">
+      <div class="card-top"><span class="topic"></span><span class="status"></span></div>
+      <h3></h3>
+      <p class="authors"></p>
+      <p class="abstract"></p>
+      <div class="card-meta"><span class="date"></span><span class="venue"></span></div>
+      <a class="card-link" target="_blank" rel="noopener">Abrir fuente <span aria-hidden="true">↗</span></a>
+    </article>
+  </template>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
