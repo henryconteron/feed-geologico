@@ -10,7 +10,7 @@ function filteredPosts(){
   const q=state.query.toLocaleLowerCase("es");
   const items=state.posts.filter(post=>{
     const matchesTopic=state.topic==="Todos"||post.topic===state.topic;
-    const haystack=[post.title,...(post.authors||[]),post.topic,post.venue,post.abstract].join(" ").toLocaleLowerCase("es");
+    const haystack=[post.title,...(post.authors||[]),post.topic,post.venue,post.abstract_original,post.abstract,post.explanation_es,post.application].join(" ").toLocaleLowerCase("es");
     return matchesTopic&&(!q||haystack.includes(q));
   });
   return items.sort((a,b)=>state.sort==="title"?a.title.localeCompare(b.title,"es"):state.sort==="oldest"?a.published.localeCompare(b.published):b.published.localeCompare(a.published));
@@ -23,7 +23,7 @@ function render(){
     node.querySelector(".status").textContent=labelForStatus(post.status);
     node.querySelector("h3").textContent=escapeText(post.title);
     node.querySelector(".authors").textContent=(post.authors||[]).slice(0,4).join(", ")+(post.authors?.length>4?" et al.":"");
-    node.querySelector(".abstract").textContent=escapeText(post.abstract)||"Metadatos recuperados de la fuente original. Consulta el enlace para leer el resumen completo.";
+    const original=escapeText(post.abstract_original||post.abstract);\n    node.querySelector(".abstract").textContent=original||"Abstract no disponible en los metadatos abiertos. Consulta la fuente original.";\n    node.querySelector(".abstract-label").textContent=original?"ABSTRACT ORIGINAL · IDIOMA DE LA FUENTE":"ABSTRACT NO DISPONIBLE";\n    const explanation=escapeText(post.explanation_es);const application=escapeText(post.application);\n    const editorial=node.querySelector(".editorial");\n    if(explanation||application){editorial.hidden=false;editorial.querySelector(".explanation").textContent=explanation||"Pendiente de revisión editorial.";editorial.querySelector(".application").textContent=application||"Pendiente de revisión editorial.";}
     node.querySelector(".date").textContent=prettyDate(post.published);
     node.querySelector(".venue").textContent=escapeText(post.venue)||"Fuente académica";
     const link=node.querySelector(".card-link");link.href=post.url;link.setAttribute("aria-label",`Abrir fuente: ${post.title}`);
