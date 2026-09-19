@@ -23,7 +23,12 @@ function render(){
     node.querySelector(".status").textContent=labelForStatus(post.status);
     node.querySelector("h3").textContent=escapeText(post.title);
     node.querySelector(".authors").textContent=(post.authors||[]).slice(0,4).join(", ")+(post.authors?.length>4?" et al.":"");
-    const original=escapeText(post.abstract_original||post.abstract);\n    node.querySelector(".abstract").textContent=original||"Abstract no disponible en los metadatos abiertos. Consulta la fuente original.";\n    node.querySelector(".abstract-label").textContent=original?"ABSTRACT ORIGINAL · IDIOMA DE LA FUENTE":"ABSTRACT NO DISPONIBLE";\n    const explanation=escapeText(post.explanation_es);const application=escapeText(post.application);\n    const editorial=node.querySelector(".editorial");\n    if(explanation||application){editorial.hidden=false;editorial.querySelector(".explanation").textContent=explanation||"Pendiente de revisión editorial.";editorial.querySelector(".application").textContent=application||"Pendiente de revisión editorial.";}
+    const original=escapeText(post.abstract_original||post.abstract);
+    node.querySelector(".abstract").textContent=original||"Abstract no disponible en los metadatos abiertos. Consulta la fuente original.";
+    node.querySelector(".abstract-label").textContent=original?"ABSTRACT ORIGINAL · IDIOMA DE LA FUENTE":"ABSTRACT NO DISPONIBLE";
+    const explanation=escapeText(post.explanation_es);const application=escapeText(post.application);
+    const editorial=node.querySelector(".editorial");
+    if(explanation||application){editorial.hidden=false;editorial.querySelector(".explanation").textContent=explanation||"Pendiente de revisión editorial.";editorial.querySelector(".application").textContent=application||"Pendiente de revisión editorial.";}
     node.querySelector(".date").textContent=prettyDate(post.published);
     node.querySelector(".venue").textContent=escapeText(post.venue)||"Fuente académica";
     const link=node.querySelector(".card-link");link.href=post.url;link.setAttribute("aria-label",`Abrir fuente: ${post.title}`);
