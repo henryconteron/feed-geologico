@@ -1,21 +1,30 @@
-# Feed Geológico
+# GeoPulso · Feed Geológico
 
-Feed científico bilingüe y verificable sobre geociencias, creado por **Henry P. Conteron Moreta**.
+Plataforma abierta de formación y actualización profesional en geociencias, creada por **Henry P. Conteron Moreta**.
 
-La aplicación reúne publicaciones recientes desde fuentes académicas abiertas, conserva DOI, autores, fecha y procedencia, y separa claramente contenido automático de contenido revisado.
+GeoPulso conecta fundamentos con tareas reales de campo, laboratorio y oficina en minería, petróleo, energía, geotecnia, SIG y geofísica. La biblioteca científica conserva DOI, autores, fechas, abstracts disponibles y enlaces originales.
 
-## Estado
+## Áreas
 
-Versión inicial en construcción.
+1. **Aprender:** cursos estructurados desde fundamentos hasta ejercicios prácticos.
+2. **Trabajo real:** equipos, procedimientos, datos, control de calidad, seguridad y entregables.
+3. **Biblioteca científica:** descubrimiento automático de publicaciones y revisión editorial visible.
 
-## Principios
+## Primera ruta
 
-- Prioridad a fuentes primarias y metadatos trazables.
-- Sin inventar resúmenes ni clasificaciones.
-- DOI y enlace original visibles.
-- Las incorporaciones automáticas quedan marcadas como pendientes de revisión.
-- GitHub Issues funciona como bandeja para propuestas manuales.
+**Identificación y descripción de rocas en campo**
 
-## Autor
+El resultado esperado será una ficha defendible que separe observación, identificación e interpretación preliminar, acompañada por registro fotográfico y fuentes.
 
-**Henry P. Conteron Moreta** — Ingeniero en Geociencias, Ecuador.
+## Principios editoriales
+
+- La observación se separa de la interpretación.
+- El abstract original se distingue de traducciones y explicaciones editoriales.
+- Toda afirmación técnica conserva una fuente trazable.
+- El contenido generado automáticamente requiere revisión humana.
+- Las imágenes deben incluir autoría, procedencia y licencia.
+- DOI no significa por sí mismo “verificado” ni “revisado por pares”.
+
+## Automatización
+
+OpenAlex descubre publicaciones; GitHub Actions actualiza el catálogo. Los cursos y explicaciones se publicarán mediante un flujo de borrador, revisión técnica y aprobación editorial.
