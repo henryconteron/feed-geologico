@@ -1,4 +1,569 @@
 {
   "updated": "2026-09-19",
-  "posts": []
+  "posts": [
+    {
+      "id": "doi:10.5281/zenodo.7368979",
+      "title": "Journal of GIS based Historical Studies",
+      "authors": [
+        "JANGIS"
+      ],
+      "published": "2029-05-06",
+      "topic": "Geomorfología",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "abstract": "This is a journal of the Asian Network of GIS based Historical Studies, Tokyo, Japan",
+      "url": "https://doi.org/10.5281/zenodo.7368979",
+      "doi": "10.5281/zenodo.7368979",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1080/07011784.2026.2706012",
+      "title": "The potential for groundwater heat pump systems for mitigating urban heat islands: aquifer suitability evaluation in Canada’s major cities",
+      "authors": [
+        "Victoria Lee",
+        "Christine Rivard",
+        "Jasmin Raymond",
+        "M.D. Parent",
+        "Denis Lavoie",
+        "Félix-Antoine Comeau",
+        "Juliet Newson"
+      ],
+      "published": "2026-09-17",
+      "topic": "Hidrogeología",
+      "venue": "Canadian Water Resources Journal / Revue canadienne des ressources hydriques",
+      "abstract": "Urban heat islands (UHI) are a growing issue in the context of global warming and pose significant threats to the public’s health and well-being. The heat rejected into the city air from conventional air conditioners is a significant contributor to UHI. Geothermal energy is an alternative for mitigating this issue by redirecting this heat into the subsurface. This study assesses the suitability for open-loop geothermal technology of 10 selected Canadian cities that commonly experience UHI effects during summer, focusing on groundwater heat pump (GWHP) systems. Utilizing six key criteria related to hydrogeology and geochemistry, an evaluation ",
+      "url": "https://doi.org/10.1080/07011784.2026.2706012",
+      "doi": "10.1080/07011784.2026.2706012",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1186/s13617-026-00173-8",
+      "title": "Tephra fall probabilistic hazard maps for VEI 3 and VEI 4 eruptions at Mt. Garibaldi (Nch’kay’) volcano, British Columbia, Canada",
+      "authors": [
+        "Sara Osman",
+        "Thomas J. Jones",
+        "Yannick Le Moigne",
+        "Melanie Kelman"
+      ],
+      "published": "2026-09-17",
+      "topic": "Volcanología",
+      "venue": "Journal of Applied Volcanology",
+      "abstract": "Abstract Following explosive volcanic eruptions, hazard from tephra fall can be widespread. Based on the geological record of past eruptions and risk to population and infrastructure, Mt. Garibaldi volcano ( Nch’ k ay’ ) in British Columbia has been assigned the highest threat ranking of any Canadian volcano. However, until this contribution no hazard map exists for the volcano. In our study, we formed a government-university partnership and modelled tephra dispersion for Volcanic Explosivity Index (VEI) 3 and VEI 4 scenarios for Mt. Garibaldi to produce probabilistic tephra fall hazard maps. We found significant tephra impacts (loads ≥ 0.1 k",
+      "url": "https://doi.org/10.1186/s13617-026-00173-8",
+      "doi": "10.1186/s13617-026-00173-8",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1038/s43247-026-04016-7",
+      "title": "Subdued surface expression of deep cave collapse",
+      "authors": [
+        "Matej Lipar",
+        "Matthias Leopold",
+        "John A. Webb",
+        "Rok Ciglič",
+        "Jure Tičar",
+        "Matija Zorn",
+        "Uroš Stepišnik",
+        "Jelovčan Matej",
+        "Milo Barham",
+        "Matej Dolenec",
+        "Primož Miklavc",
+        "Tomislav Popit"
+      ],
+      "published": "2026-09-17",
+      "topic": "Geofísica",
+      "venue": "Communications Earth & Environment",
+      "abstract": "Cave systems can be difficult to recognise where karst landforms are subdued or overprinted with other landscape processes. Subtle linear depressions on carbonate platforms are commonly interpreted as fluvial or tectonic landforms, but may also mark collapse above underlying cave systems. We test this on the Nullarbor Plain, southern Australia, a stable >200,000 km² carbonate platform exposed for >14 Myr. Integrating morphometrics, electrical resistivity tomography, passive seismic profiling, cave records, cliff exposures and sedimentology, we show that kilometre-scale, shallow, sediment-filled trenches are surface expressions of vertically p",
+      "url": "https://doi.org/10.1038/s43247-026-04016-7",
+      "doi": "10.1038/s43247-026-04016-7",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3389/frwa.2026.1922866",
+      "title": "Soil and Water Assessment Tool reveals dominant baseflow in semi-arid catchment with sand dams in Kenya",
+      "authors": [
+        "Jana Reichenbach",
+        "Andreas Braun",
+        "Volker Hochschild"
+      ],
+      "published": "2026-09-17",
+      "topic": "Hidrogeología",
+      "venue": "Frontiers in Water",
+      "abstract": "Introduction Increasing water scarcity and climate variability threaten rural livelihoods in semi-arid regions. Sand dams are widely used as Nature-based Solutions (NbS) to retain water within the sandy matrix of ephemeral riverbeds, yet their catchment-scale hydrological effects remain insufficiently quantified. Methods We applied the Soil and Water Assessment Tool (SWAT+) in a 22.35 km 2 ungauged ephemeral catchment in Makueni County, Kenya, containing 22 sand dams. The model combined open Earth observation and geospatial datasets to characterize baseline hydrology for 1990–2024. Future hydrological responses were explored under an RCP4.5 c",
+      "url": "https://doi.org/10.3389/frwa.2026.1922866",
+      "doi": "10.3389/frwa.2026.1922866",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3389/fenvs.2026.1918318",
+      "title": "Scenario-driven optimization of land-use/land-cover conversion pathways to improve ecosystem service performance in the Yellow River Basin",
+      "authors": [
+        "Lingqi Li",
+        "Chang Liu",
+        "Enhui Jiang",
+        "Jinhan Liu"
+      ],
+      "published": "2026-09-17",
+      "topic": "Geomorfología",
+      "venue": "Frontiers in Environmental Science",
+      "abstract": "Future land use/land cover (LULC) conversions provide a critical pathway for improving ecosystem service (ES) outcomes in large river basins, yet their contributions to comprehensive ES performance and functional synergies remain insufficiently quantified. This study projected the future dynamics of five representative ES metrics: carbon storage (CS), water yield (WY), nutrient export (NE), soil conservation (SC), and habitat quality (HQ) across multiple spatiotemporal scales in the Yellow River Basin, China. An Integrated Ecosystem Services Index (IESI) was constructed by aggregating the five normalized ES metrics to assess overall ES perfor",
+      "url": "https://doi.org/10.3389/fenvs.2026.1918318",
+      "doi": "10.3389/fenvs.2026.1918318",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.14393/sn-v38-2026-83305",
+      "title": "Mineral-Organic Interactions and Soil Gradients Drive Plant Community Assembly in Brazilian Semiarid Inselbergs",
+      "authors": [
+        "Bartolomeu Israel de Souza",
+        "Rony Lopes Lunguinho",
+        "Daniel Kroehling",
+        "José João Lelis Leal de Souza",
+        "Dayane Fernandes Queiroz",
+        "Joseilsom Ramos de Medeiros",
+        "Eini Celly Morais Cardoso",
+        "Joel Maciel Pereira Cordeiro",
+        "Rafael Albuquerque Xavier",
+        "Inocencio de Oliveira Borges Neto"
+      ],
+      "published": "2026-09-17",
+      "topic": "Geomorfología",
+      "venue": "Sociedade & natureza",
+      "abstract": "This study investigated a soil catena along a colluvial slope of a southeast-facing granitic inselberg to evaluate the influence of soil property variations on vegetation composition across altitudinal and distance gradients from the inselberg. Four soil profiles were described and sampled along a toposequence. Soil analyses included texture, acidity, exchangeable bases, phosphorus, nitrogen, and organic carbon contents. Total porosity, macroporosity, and microporosity were determined using undisturbed soil samples. Tree and shrub individuals were identified within vegetation plots around the soil profiles, and plant diversity and evenness we",
+      "url": "https://doi.org/10.14393/sn-v38-2026-83305",
+      "doi": "10.14393/sn-v38-2026-83305",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s11600-026-01990-6",
+      "title": "Integrated geophysical and hydrogeochemical characterization of a fractured limestone aquifer in new Tuna El Gabel village, West El-Minia, Egypt",
+      "authors": [
+        "Mohamed Mourad",
+        "Eslam Abd Elrazek",
+        "Ahmed Abd El Gawad",
+        "Takeshi Tsuji",
+        "Ahmad B. Ahmad",
+        "Tarek Imam",
+        "Ahmed Shidied"
+      ],
+      "published": "2026-09-17",
+      "topic": "Geofísica",
+      "venue": "Acta Geophysica",
+      "abstract": "Abstract Groundwater is a vital component of water supply in arid regions, such as West El-Minia Governorate, Egypt, where water scarcity is projected to worsen, with per capita water supply expected to drop below 500 m 3 by 2025. In response, Egypt’s One and a Half Million Feddan (≈630,000 hectares) project aims to reclaim the Western Desert and develop new communities, aligning with the country’s Vision 2030 for sustainable development. This study conducts a comprehensive qualitative and quantitative assessment of groundwater resources in the region, evaluating their suitability for various applications. Using 16 vertical electrical soundin",
+      "url": "https://doi.org/10.1007/s11600-026-01990-6",
+      "doi": "10.1007/s11600-026-01990-6",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s44288-026-00733-w",
+      "title": "Hydrogeological characterization of fractured basement aquifers using an integrated analysis in the Agnéby-Tiassa region of southern Côte d’Ivoire",
+      "authors": [
+        "Tchimou Vincent Assoma",
+        "Aimé Koudou",
+        "Marc Ta Youan",
+        "Mahmoud Diaby",
+        "Sékouba Oularé"
+      ],
+      "published": "2026-09-17",
+      "topic": "Hidrogeología",
+      "venue": "Discover Geoscience",
+      "abstract": "Access to safe drinking water in the Agnéby-Tiassa region (southern Côte d’Ivoire) faces major challenges due to the inadequacy of surface water resources and a poor understanding of the potential of basement aquifers, which are often obscured by a thick regolith mantle and dense vegetation. This study proposes an integrated methodological approach aimed at a detailed characterization of the hydrogeological potential of these fractured formations to optimise the siting of high-yield boreholes. This synergistic approach combines: (i) the processing of Sentinel-1 radar images in VV and VH polarisations for structural lineament mapping, (ii) the",
+      "url": "https://doi.org/10.1007/s44288-026-00733-w",
+      "doi": "10.1007/s44288-026-00733-w",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3897/subtbiol.58.194901",
+      "title": "From order to species: Modelling Amphipoda distributions in the Hamersley Range",
+      "authors": [
+        "Maria Clara Lopes Paula",
+        "Lesley Gibson",
+        "Mark Lindsay",
+        "Guillaume Pirot",
+        "Mark Jessell",
+        "Edward Cripps"
+      ],
+      "published": "2026-09-17",
+      "topic": "Hidrogeología",
+      "venue": "Subterranean Biology",
+      "abstract": "Groundwater amphipods in the Pilbara region of Western Australia are under pressure from the impacts of mining operations, particularly from groundwater extraction. To help inform conservation planning for this subterranean group, we model their distribution using a suite of environmental variables and occurrence data, and a Random Forest (RF) classification method. Given the taxonomic uncertainty and cryptic diversity in groundwater amphipods, we compared model results across nested taxonomic datasets to assess the potential benefits and limitations of higher-level taxonomic modelling. In this analysis, we compared all amphipods (Order: Amph",
+      "url": "https://doi.org/10.3897/subtbiol.58.194901",
+      "doi": "10.3897/subtbiol.58.194901",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s12237-026-01811-5",
+      "title": "Forecasting Marsh Resilience in the Plum Island Estuary: Integrating Uncertainty to Inform Coastal Management",
+      "authors": [
+        "Ramin Familkhalili",
+        "Nicholas M. Enwright",
+        "Jordan Cosgrove",
+        "Christine A. Buckel"
+      ],
+      "published": "2026-09-17",
+      "topic": "Geomorfología",
+      "venue": "Estuaries and Coasts",
+      "abstract": "Abstract Salt marshes provide critical ecosystem services yet face increasing threats from accelerated relative sea-level rise (SLR). The long-term persistence of these habitats depends on their ability to vertically accrete and laterally migrate into adjacent uplands. Predicting the location and viability of these future marsh corridors is therefore a primary challenge for coastal managers; one often hindered by uncertainties in future water levels and topographic data accuracy, particularly in vegetated wetlands where light detection and ranging (lidar) data systematically overestimate elevation. This study applies an uncertainty-informed m",
+      "url": "https://doi.org/10.1007/s12237-026-01811-5",
+      "doi": "10.1007/s12237-026-01811-5",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3389/fsoil.2026.1924576",
+      "title": "Exploring spatial variability in the physical and chemical properties of urban soils using electrical resistivity tomography",
+      "authors": [
+        "Camille Ribler",
+        "Thomas Z. Lerch",
+        "Henri Robain"
+      ],
+      "published": "2026-09-17",
+      "topic": "Geofísica",
+      "venue": "Frontiers in Soil Science",
+      "abstract": "Urban soils exhibit complex spatial heterogeneity resulting from the superposition of natural pedogenetic processes and variable anthropogenic disturbances. To optimize land-use planning and avoid inappropriate uses, it is essential to accurately characterize the spatial variability of soil properties and potential contamination. Electrical Resistivity Tomography (ERT), a geophysical method developed over several decades, is well suited to describe soil variability in highly heterogeneous, human-disturbed environments. Resistivity values are mainly controlled by water content within soil porosity, and thus by texture and structure. However, e",
+      "url": "https://doi.org/10.3389/fsoil.2026.1924576",
+      "doi": "10.3389/fsoil.2026.1924576",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s11440-026-03224-x",
+      "title": "Characterization and stability assessment of rare earth tailings under dry and paste stacking conditions",
+      "authors": [
+        "Anshumali Mishra",
+        "Soumya Roy",
+        "Sanandam Bordoloi",
+        "Erika Levei",
+        "Priyadharshini Perumal"
+      ],
+      "published": "2026-09-17",
+      "topic": "Geología minera",
+      "venue": "Acta Geotechnica",
+      "abstract": "The management of rare earth element (REE) tailings presents unique challenges due to their fine-grained nature, carbonate-rich composition, and potential environmental sensitivity. As Europe develops new carbonatite and phosphate-hosted REE projects, large volumes of tailings will require safe and sustainable storage. This study integrates physicochemical characterization, triaxial testing, particle breakage analysis, and numerical modelling to evaluate the behaviour of REE tailings within a tailings storage facility. The tailings were predominantly composed of ankerite (68.8%) and calcite (24.8%), with a specific gravity of 2.99 and fine an",
+      "url": "https://doi.org/10.1007/s11440-026-03224-x",
+      "doi": "10.1007/s11440-026-03224-x",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s10950-026-10454-9",
+      "title": "Velocity changes in the Haichenghe fault zone in Liaoning, China revealed by S-coda of repeating microearthquakes",
+      "authors": [
+        "Qingshan Sun",
+        "Zihao Li",
+        "Liang Wang",
+        "Zhihong Zhang",
+        "Zhenpeng Yang",
+        "Cui Zhengdong"
+      ],
+      "published": "2026-09-16",
+      "topic": "Geofísica",
+      "venue": "Journal of Seismology",
+      "abstract": "Abstract Monitoring temporal seismic velocity changes within active fault zones provides critical insights into crustal stress evolution and earthquake nucleation processes. Leveraging high-density observational data from the Liaoning Seismic Network and the Haicheng Dense Array, we identified 37 repeating sequences (comprising 89 events) and applied coda wave interferometry (CWI) to measure relative seismic velocity changes within the fault zone. Velocity variations show substantial overall dispersion, with their stability jointly governed by sequence duration and epicentral distance. A limited number of continual-type sequences indicate a s",
+      "url": "https://doi.org/10.1007/s10950-026-10454-9",
+      "doi": "10.1007/s10950-026-10454-9",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s44475-026-00070-z",
+      "title": "Temporal change in mass eruption rate estimated from co-eruptive seismograms during 2014–2018 eruption at Sinabung Volcano, Indonesia",
+      "authors": [
+        "Vico Luthfi Ipmawan",
+        "Masato Iguchi",
+        "Takahiro Ohkura",
+        "Takeshi Tameguri",
+        "Taishi Yamada",
+        "Hetty Triastuty"
+      ],
+      "published": "2026-09-16",
+      "topic": "Volcanología",
+      "venue": "Discover Hazards",
+      "abstract": "Abstract An effusive eruption occurred at Sinabung volcano, Indonesia, from December 2013 to February 2018. The eruption peaked with violent pyroclastic density currents (PDCs) and a lava flow in the first three months of 2014 and then gradually declined. After the lava flow activity ceased, in October 2014, minor PDCs repeated and Vulcanian eruptions started in August 2015. For estimating the erupted mass from individual PDCs and Vulcanian eruptions after October 2014, a simple but robust method that uses the co-eruptive seismic energy associated with PDCs and Vulcanian eruptions is proposed. Empirical relationships between co-eruptive seism",
+      "url": "https://doi.org/10.1007/s44475-026-00070-z",
+      "doi": "10.1007/s44475-026-00070-z",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1093/gji/ggag377",
+      "title": "Regional 3-D electrical resistivity model of Mongolia: Constraining lithospheric properties and architecture",
+      "authors": [
+        "R Rigaud",
+        "M J Comeau",
+        "B Erdenechimeg",
+        "M Kruglyakov",
+        "A Kuvshinov",
+        "M Becken",
+        "J Plett",
+        "H Treppke",
+        "T Shoovdor",
+        "D Sodnomsambuu",
+        "O Chimed"
+      ],
+      "published": "2026-09-16",
+      "topic": "Tectónica activa",
+      "venue": "Geophysical Journal International",
+      "abstract": "Sumamry Electrical resistivity models derived from magnetotelluric (MT) measurements across the Khangai Dome, an intracontinental plateau in central Mongolia, have identified several intriguing features, including a locally thinned lithosphere and extended fluid-rich domains in the lower crust. However, due to the limited spatial coverage of these studies, whether those features extend beyond central Mongolia could not be assessed. This is an important question with major scientific implications for understanding the geodynamic evolution of the region. The surrounding areas also host significant mineral deposits and geothermal resources, whos",
+      "url": "https://doi.org/10.1093/gji/ggag377",
+      "doi": "10.1093/gji/ggag377",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s44346-026-00020-z",
+      "title": "Radiometric and geochemical indicators in anthills as guides for mineral exploration in Bashar Upper Benue Trough North Central Nigeria",
+      "authors": [
+        "Okopi Johnson Odumu",
+        "Nansak Bitrus Rimven",
+        "Raymond Ishaya Daspan",
+        "Edimeh Isaac Abalaka"
+      ],
+      "published": "2026-09-16",
+      "topic": "Geología minera",
+      "venue": "Discover Minerals.",
+      "abstract": "This study evaluates the potential of anthill radiometric and geochemical signatures as indicators for preliminary mineral exploration in the Bashar area of the Upper Benue Trough, north-central Nigeria. The objective was to assess the distribution of uranium (U), thorium (Th), and potassium (K) in anthill materials and evaluate their geological and exploration significance. A total of 234 field radiometric measurements were acquired using a portable gamma-ray spectrometer, while 10 representative anthill samples were analyzed for elemental composition using X-ray fluorescence (XRF). Elemental concentrations, including U, Th, and K, together ",
+      "url": "https://doi.org/10.1007/s44346-026-00020-z",
+      "doi": "10.1007/s44346-026-00020-z",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s43832-026-00453-9",
+      "title": "Integrated hydrogeochemical and microbiological assessment of groundwater quality in a fractured volcanic aquifer, Ibb City, Yemen",
+      "authors": [
+        "Ghunaim Nasher",
+        "Hagib Al-Hagibi",
+        "Moammar Naji",
+        "Bassim Al-Khirbash",
+        "Nabil Al-Shwafi",
+        "Aref Alshameri"
+      ],
+      "published": "2026-09-16",
+      "topic": "Hidrogeología",
+      "venue": "Discover Water",
+      "abstract": "Abstract Groundwater quality assessment in fractured volcanic aquifers presents significant challenges due to structural heterogeneity that may influence groundwater flow and contaminant transport. This study presents an integrated hydrogeochemical and microbiological assessment of groundwater from twenty production wells tapping the fractured volcanic aquifer of the Tertiary Yemen Volcanic Group in Ibb City, Yemen. Groundwater samples were collected during the dry season (November–December 2025). Hydrochemical characterization identified the Ca–Mg–HCO₃ facies as the dominant groundwater type, consistent with recharge-driven water–rock intera",
+      "url": "https://doi.org/10.1007/s43832-026-00453-9",
+      "doi": "10.1007/s43832-026-00453-9",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.56201/ijaes.vol.12.no2.2026.pg64.85",
+      "title": "Genesis of Alluvial Titanium Resources in the Bularafa Area of Yobe State: An Integrated Spatial and Petrographic Studies",
+      "authors": [
+        "Alamin Muhammad Ahmad"
+      ],
+      "published": "2026-09-16",
+      "topic": "Geología minera",
+      "venue": "INTERNATIONAL JOURNAL OF AGRICULTURE AND EARTH SCIENCE",
+      "abstract": "This study investigates the origin of an alluvial titanium resources located within the Bularafa Area of Yobe State. Thorough aeromagnetic map studies, comprehensive field mapping and petrographic examination, were employed to interpret the regional lithological framework and the processes controlling titanium mineralization. Spatial observations revealed that sedimentary units were intruded by distinct volcanic plugs exhibiting diverse structural features, including columnar jointing (vertical, dipping, and horizontal), brecciation, and layering. Petrographic studies indicate that these plugs have basaltic-intermediate composition and is cha",
+      "url": "https://doi.org/10.56201/ijaes.vol.12.no2.2026.pg64.85",
+      "doi": "10.56201/ijaes.vol.12.no2.2026.pg64.85",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s00126-026-01480-1",
+      "title": "Fluid and metal provenance of the Kiskamavaara Cu-Co deposit, northern Norrbotten, Sweden",
+      "authors": [
+        "Iris van der Werf",
+        "Joel Andersson",
+        "Amir Morteza Azimzadeh",
+        "Martin Whitehouse",
+        "Nils Palo",
+        "Nils Jansson",
+        "Thomas Kearney",
+        "Tobias Bauer"
+      ],
+      "published": "2026-09-16",
+      "topic": "Geología minera",
+      "venue": "Mineralium Deposita",
+      "abstract": "Abstract Kiskamavaara is a shear zone-hosted cobaltian pyrite and chalcopyrite deposit in Northern Norrbotten, Sweden. Although previously classified as an Iron Oxide Copper-Gold (IOCG) deposit, the dominance of pyrite is atypical, suggesting either an unusual IOCG variant or a deposit type with overlapping characteristics. Understanding deposits like Kiskamavaara, for which limited documentation exists, is critical for refining genetic models and regional exploration strategies. To determine metal and fluid provenance and grain deformation characteristics in Kiskamavaara, this study combines in-situ Electron Backscatter Diffraction for defor",
+      "url": "https://doi.org/10.1007/s00126-026-01480-1",
+      "doi": "10.1007/s00126-026-01480-1",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1038/s41598-026-70181-6",
+      "title": "Estimation of NATM excavation-support classes at tunnel excavation faces using a deep learning algorithm",
+      "authors": [
+        "H. Selin Özdemir",
+        "Gokcen Gokceoglu",
+        "Nazlı Tunar Özcan",
+        "Candan Gökçeoğlu"
+      ],
+      "published": "2026-09-16",
+      "topic": "Geología minera",
+      "venue": "Scientific Reports",
+      "abstract": "Accurate determination of the geotechnical conditions at the tunnel face is essential for ensuring safe and effective excavation and support operations during tunnel construction with New Austrian Tunnelling Method (NATM). Therefore, engineering geologists carefully and systematically collect geotechnical data from the excavation face to ensure reliable NATM excavation-support classes. The development of artificial intelligence algorithms has provided significant advantages for such applications. In this study, a deep learning model is proposed to identify NATM excavation-support classes from tunnel face photographs obtained during the constr",
+      "url": "https://doi.org/10.1038/s41598-026-70181-6",
+      "doi": "10.1038/s41598-026-70181-6",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3389/fenvs.2026.1925038",
+      "title": "A study on the coupling of Rural-Land Use transformation and development in the karst mountains of southwest China: the case of Guizhou province",
+      "authors": [
+        "Luo Kunyan",
+        "Song Li"
+      ],
+      "published": "2026-09-16",
+      "topic": "Geomorfología",
+      "venue": "Frontiers in Environmental Science",
+      "abstract": "Revealing the coupling coordination mechanism between rural transformation and land-use transformation in ecologically fragile regions is of theoretical and practical significance for addressing the paradox between ecological conservation and rural development, and for promoting sustainable development in karst mountainous areas. Drawing on social-ecological systems theory, this study develops an analytical framework for coupling Rural-Land Use transformation. Using 88 county-level units in Guizhou Province as the study area, we apply a composite index method, a coupling coordination degree model, and Geodetector to systematically analyze the",
+      "url": "https://doi.org/10.3389/fenvs.2026.1925038",
+      "doi": "10.3389/fenvs.2026.1925038",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.26117/2079-6641-2026-54-2-166-200",
+      "title": "Electric Activity of Volcanic Clouds and Formation of Local Electric Field in Kamchatka",
+      "authors": [
+        "Evgeniy Malkin",
+        "N. V. Cherneva"
+      ],
+      "published": "2026-09-15",
+      "topic": "Volcanología",
+      "venue": "Вестник КРАУНЦ Физико-математические науки",
+      "abstract": "The paper summarizes the contribution of Firstov P.P. to experimental studies of the vertical component of the atmospheric electric field (AEF Ez) at Paratunka Observatory (2006–2018). Based on the analysis of 47 publications and a monograph (Cherneva and Firstov, 2018), the key role of seasonal radon outflow in the formation of Ez variations is demonstrated. The basic models of field sources are presented, including the influence of steam-water clouds, cyclones, and volcanic eruptions. In particular, a laboratory experiment with the injection of a steam-water mixture from a geothermal well, simulating the impact of an artificial cloud on the",
+      "url": "https://doi.org/10.26117/2079-6641-2026-54-2-166-200",
+      "doi": "10.26117/2079-6641-2026-54-2-166-200",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1029/2026gl125275",
+      "title": "The Role of Tectonic Inheritance in Active Rift Seismicity and Magmatism: Constraints From 3‐D Gravity Inversion and D‐InSAR Modeling of the 2025 Fentale Swarm, Ethiopia",
+      "authors": [
+        "Denberu Besfat",
+        "Tilahun Mammo"
+      ],
+      "published": "2026-09-12",
+      "topic": "Volcanología",
+      "venue": "Geophysical Research Letters",
+      "abstract": "Abstract The role of inherited lithospheric structures in active rift seismicity and magma intrusion remains a key uncertainty in continental breakup dynamics. We investigate the January 2025 Northern Main Ethiopian Rift swarm using constrained 3‐D gravity inversion and D‐InSAR observations to characterize crustal architecture, seismicity, and active deformation. D‐InSAR modeling resolves an NNW–SSE pressurized intrusion adjacent to Fentale volcano at ∼10 km depth, with volume change 0.87 km 3 , producing LOS displacements of 52 cm (ascending) and 46 cm (descending), and vertical uplift of 0.18 m over the caldera. Concurrent 3‐D gravity inver",
+      "url": "https://doi.org/10.1029/2026gl125275",
+      "doi": "10.1029/2026gl125275",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.geomorph.2026.110536",
+      "title": "Paleoseismic record on the Menshi segment of the Karakorum fault zone, southwestern Tibetan Plateau and its tectonic implications",
+      "authors": [
+        "Hongyu Chen",
+        "Shihui Du",
+        "Feng Luo",
+        "Yuping Yan",
+        "Yanbao Li",
+        "Guanghao Ha"
+      ],
+      "published": "2026-09-11",
+      "topic": "Tectónica activa",
+      "venue": "Geomorphology",
+      "abstract": "The Karakorum Fault Zone, a major dextral strike-slip structure extending over 1000 km along the western margin of the Tibetan Plateau, accommodates crustal deformation resulting from the ongoing India-Eurasia collision. Despite its high activity since the Late Quaternary, the recurrence behavior of large earthquakes on this fault system remains poorly constrained. The Menshi segment constitutes a structural transition zone characterized by complex geometry, featuring dominant southern and northern fault strands with intervening secondary branching faults. Through integrated field investigations, offset geomorphic mapping, trench excavation, ",
+      "url": "https://doi.org/10.1016/j.geomorph.2026.110536",
+      "doi": "10.1016/j.geomorph.2026.110536",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1029/2026gl123165",
+      "title": "Crustal Shear‐Wave Velocity and Azimuthal Anisotropy Imaging Reveals the Merapi‐Merbabu‐Telomoyo Volcanic Chain, Central Java",
+      "authors": [
+        "Iqwal Ramadhan",
+        "Sri Widiyantoro",
+        "Zulfakriza Zulfakriza",
+        "Jean‐Philippe Métaxian",
+        "Nicholas Rawlinson",
+        "Jean‐Paul Montagner",
+        "Tedi Yudistira"
+      ],
+      "published": "2026-09-11",
+      "topic": "Volcanología",
+      "venue": "Geophysical Research Letters",
+      "abstract": "Abstract We present new results from ambient noise tomography and azimuthal anisotropy analysis of the DOMERAPI data set to investigate crustal structure beneath the Merapi‐Merbabu‐Telomoyo region in central Java. The 3D shear‐wave velocity (Vs) model reveals a prominent high‐Vs anomaly extending from south of Merapi through Merbabu to Telomoyo, aligned with the Merapi‐Merbabu Fault. A low‐Vs anomaly to ∼8 km depth southwest of Merapi indicates a fluid‐rich or magmatically influenced upper crust. Azimuthal anisotropy exhibits dominant NNW‐SSE fast axis oreintations parallel to the volcanic chain but distinct from the direction of plate motion",
+      "url": "https://doi.org/10.1029/2026gl123165",
+      "doi": "10.1029/2026gl123165",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1038/s41598-026-71248-0",
+      "title": "AI-powered, seismic hazard-integrated modeling of hydrocarbon trap evolution and reservoir pressure in the Zagros Lurestan Provinces",
+      "authors": [
+        "Tahereh Valizadeh",
+        "Zahra Maleki",
+        "Abdollah Saidi",
+        "Rahman Sharifi",
+        "Pooria Kianoush"
+      ],
+      "published": "2026-09-10",
+      "topic": "Tectónica activa",
+      "venue": "Scientific Reports",
+      "abstract": "The increasing global demand for resilient subsurface energy systems requires understanding how active tectonics influence hydrocarbon trap evolution and reservoir pressure behavior. Tectonically active regions, such as the Lurestan provinces of the Zagros Fold-Thrust Belt, pose persistent challenges due to structural complexity and pressure instability. This study adopts a multiscale, hazard-integrated approach bridging seismic risk assessment and adaptive reservoir modeling. No assertion is made that individual modern earthquakes directly control million-year pressure evolution. Rather, modern seismicity correlates with long-term fault slip",
+      "url": "https://doi.org/10.1038/s41598-026-71248-0",
+      "doi": "10.1038/s41598-026-71248-0",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3390/s26175609",
+      "title": "Modeling Long-Term Postseismic Deformation Following the 2020 Mw 7.0 Samos Earthquake Using Campaign and Continuous GNSS Observations",
+      "authors": [
+        "Halil İbrahim Solak",
+        "İbrahim Tiryakioğlu",
+        "Cemil Gezgin",
+        "Kayhan Aladoğan",
+        "Sefa Yalvaç",
+        "Bahadır Aktuğ",
+        "Cemal Özer Yiğit",
+        "Ergin Dönmez",
+        "Ertuğrul Demirelli",
+        "Eda Esma Eyübagil",
+        "Ece Bengünaz Çakanşimşek",
+        "Furkan Şahiner"
+      ],
+      "published": "2026-09-03",
+      "topic": "Tectónica activa",
+      "venue": "Sensors",
+      "abstract": "Postseismic deformation provides fundamental insights into earthquake-cycle processes, lithospheric rheology, and stress redistribution following large earthquakes. Although the 2020 Mw 7.0 Samos earthquake has been extensively investigated in terms of coseismic deformation and early postseismic behavior, the long-term evolution of deformation following the event remains poorly constrained. This study characterizes the long-term spatiotemporal evolution of postseismic deformation associated with the 2020 Mw 7.0 Samos earthquake using combined campaign and continuous GNSS observations. A total of 18 GNSS stations were analyzed over an approxim",
+      "url": "https://doi.org/10.3390/s26175609",
+      "doi": "10.3390/s26175609",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1093/gji/ggag361",
+      "title": "Joint inversion of seismic and geoelectrical data targeting geological faults",
+      "authors": [
+        "Mauricio Arboleda‐Zapata",
+        "Olaf Cirpka",
+        "Peter Dietrich",
+        "Emmanuel LEGER",
+        "Carsten Leven"
+      ],
+      "published": "2026-09-03",
+      "topic": "Tectónica activa",
+      "venue": "Geophysical Journal International",
+      "abstract": "Near-surface geological faults play a crucial role in subsurface systems because they influence fluid flow and transport and can cause geotechnical failure. Topography can sometimes indicate the presence of fault zones, particularly in active tectonic settings where geomorphic features such as triangular facets are preserved. However, particularly for older inactive faults, characteristic surface geomorphic signatures may have completely been removed by erosion, or the fault may be buried beneath younger sediments. Although direct observations from outcrops or borehole data can confirm the presence of a fault very reliably, such data is commo",
+      "url": "https://doi.org/10.1093/gji/ggag361",
+      "doi": "10.1093/gji/ggag361",
+      "status": "automatic",
+      "source": "OpenAlex"
+    }
+  ]
 }
