@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "posts": [
     {
       "id": "doi:10.5281/zenodo.7368979",
@@ -16,6 +16,47 @@
       "application": "",
       "url": "https://doi.org/10.5281/zenodo.7368979",
       "doi": "10.5281/zenodo.7368979",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.33003/fjs-2026-1017-5815",
+      "title": "A Review of Remote Sensing and GIS for Integrated Hydrogeological Characterization and Groundwater Dynamics",
+      "authors": [
+        "Salwan S. Al-Hasnawi",
+        "Nada Farook Aboud",
+        "Shahad Adil Al-Qaraghuli",
+        "Hala Mohammed Al-Sekar"
+      ],
+      "published": "2026-09-21",
+      "topic": "Hidrogeología",
+      "venue": "FUDMA Journal of Sciences",
+      "abstract_original": "Remote sensing, GIS, field observations, geophysics, and process models are increasingly integrated in groundwater studies, but the hydrogeological significance of multi-sensor integration remains inconsistently defined. This systematic and critical review evaluates four domains: aquifer mapping and hydrogeological characterization (C1), groundwater recharge (C2), groundwater storage change (C3), and groundwater-related land subsidence (C4). A predefined framework separates integration level (I1-I4), sensor diversity (S1-S3+), and hydrogeological coupling (H0-H2), and assesses whether added data streams improve construct validity, uncertainty",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.33003/fjs-2026-1017-5815",
+      "doi": "10.33003/fjs-2026-1017-5815",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1038/s41598-026-71897-1",
+      "title": "3D radial anisotropic imaging of magma plumbing systems beneath the Malani silicic igneous province in northwestern India",
+      "authors": [
+        "Santhoshkumar Gundu",
+        "Satish Maurya",
+        "Mohan Gollapally"
+      ],
+      "published": "2026-09-21",
+      "topic": "Geofísica",
+      "venue": "Scientific Reports",
+      "abstract_original": "Abstract Imaging the plumbing systems of ancient silicic large igneous provinces (SLIPs) is inherently challenging due to the decay of thermal anomalies associated with SLIPs, and the erosion or masking of surface expressions by sediments. The plumbing architecture of the Neoproterozoic Malani SLIP, remains unresolved, due to limited geophysical evidence of magma conduits or sill complexes. We present the first 3D crustal isotropic shear velocity and radially anisotropic models obtained through ambient noise tomography beneath northwestern India. The model reveals distinct zones of positive and negative radial anisotropy in the mid- to lower ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1038/s41598-026-71897-1",
+      "doi": "10.1038/s41598-026-71897-1",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -38,6 +79,73 @@
       "application": "",
       "url": "https://doi.org/10.1038/s41598-026-71989-y",
       "doi": "10.1038/s41598-026-71989-y",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s44288-026-00739-4",
+      "title": "Geomechanical stratigraphy defines foundation suitability of Turonian carbonates in New Giza Egypt",
+      "authors": [
+        "EL-Hussein M. Ali",
+        "Ali Mahdy",
+        "Abdel Moktader A. El Sayed",
+        "Salah El-Din A. Mousa",
+        "Mohie El-Din M. El-Mashad"
+      ],
+      "published": "2026-09-20",
+      "topic": "Geofísica",
+      "venue": "Discover Geoscience",
+      "abstract_original": "Geotechnical parameters—including uniaxial compressive strength (UCS), Young’s modulus (E), Poisson’s ratio (ν), and derived competence indices (Material Index γ, Concentration Index Ci, and Stress Ratio Si)—were evaluated to assess foundation quality in Turonian carbonate rocks at Pyramids Heights (New Giza), Egypt. Direct uniaxial compression tests (ASTM D7012) were conducted on core and block samples from 228 boreholes to ensure spatial fidelity. Results show UCS values ranging from 4.93 to 19.69 MPa. Young’s modulus varies between 2.86 and 14.30 GPa. Allowable bearing capacities (Qₐ) range from 1.25 to 4.99 MPa. These values indicate low ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1007/s44288-026-00739-4",
+      "doi": "10.1007/s44288-026-00739-4",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.21660/2026.145.5624",
+      "title": "GEOTECHNICAL PARAMETER ANALYSIS OF LANDSLIDE-PRONE AREAS USING MASW AND SEISMIC REFRACTION",
+      "authors": [
+        "Muhammad Syukri"
+      ],
+      "published": "2026-09-20",
+      "topic": "Geofísica",
+      "venue": "International Journal of Geomate",
+      "abstract_original": "National transportation routes in the Seulawah region frequently experience damage due to external factors, particularly intense rainfall and seismic activity associated with the Seulimum fault. These impacts often trigger geohazards such as landslides, subsidence, and road deformation, which are strongly related to weak subsurface geotechnical conditions. This study aims to characterize the geotechnical properties of subsurface materials along the Seulawah route by integrating seismic refraction and Multichannel Analysis of Surface Waves (MASW) methods. Data acquisition was conducted using PASI 16S24-N instruments at two survey locations, wi",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.21660/2026.145.5624",
+      "doi": "10.21660/2026.145.5624",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s44274-026-01060-0",
+      "title": "Clean coal technologies for sustainable coal exploitation and mining innovation",
+      "authors": [
+        "Arup Kumar Biswas",
+        "Istiak Ahmed",
+        "Mohammad Forrukh Hossain Khan",
+        "Shihab Mahmud",
+        "Md. Nazmul Haque",
+        "Minhaj Uddin Monir",
+        "M. Rakib Uddin",
+        "Md. Oliur Rahman",
+        "Sabrina Afrin Mustafa",
+        "Makatar Wae-hayee"
+      ],
+      "published": "2026-09-20",
+      "topic": "Hidrogeología",
+      "venue": "Discover Environment",
+      "abstract_original": "Considering intensifying global environmental imperatives, global coal usage is projected to decline due to its detrimental ecological consequences. Consequently, coal-reliant sectors are increasingly adopting Clean Coal Technologies (CCTs) as a transitional strategy. Conventional CCTs primarily address coal processing and combustion predominantly within power generation yet frequently neglect the substantial environmental burdens associated with extraction. In contrast, unconventional coal exploitation methods, including Coal Bed Methane (CBM) and Underground Coal Gasification (UCG), represent a transformative approach by facilitating in-sit",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1007/s44274-026-01060-0",
+      "doi": "10.1007/s44274-026-01060-0",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -152,7 +260,7 @@
       "title": "Spatial prediction of groundwater nitrate through machine learning and stakeholder co-creation: the Chalk aquifer case in East Anglia, UK",
       "authors": [
         "V. Gómez-Escalonilla",
-        "Helen Baron",
+        "Helen Elizabeth Baron",
         "T. Read",
         "J. Watson",
         "M. Rodríguez del Rosario",
@@ -232,6 +340,26 @@
       "application": "",
       "url": "https://doi.org/10.38124/ijisrt/26aug1198",
       "doi": "10.38124/ijisrt/26aug1198",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s40789-026-00924-3",
+      "title": "High-fidelity spatiotemporal evolution of CO₂ storage in saline aquifers: A physics-synergized deep learning framework for CO₂ plume prediction and super-resolution reconstruction",
+      "authors": [
+        "Shuyi Du",
+        "Sijia Wang",
+        "Qitao Zhang"
+      ],
+      "published": "2026-09-18",
+      "topic": "Geofísica",
+      "venue": "International Journal of Coal Science & Technology",
+      "abstract_original": "Abstract Precise forecasting of spatiotemporal CO₂ plume evolution in deep saline aquifers is imperative for ensuring the long-term integrity and efficacy of carbon capture and storage. However, a persistent dichotomy exists in current modeling paradigms: high-fidelity numerical simulations suffer from computational intractability, while prevailing data-driven surrogates often lack embedded physical constraints, failing to capture long-term temporal dependencies and fine-scale geological heterogeneity. To bridge this gap, this study proposes a novel Physics-Synergized Deep Learning Framework designed for CO₂ plume temporal forecasting and spa",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1007/s40789-026-00924-3",
+      "doi": "10.1007/s40789-026-00924-3",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -326,7 +454,7 @@
       "id": "doi:10.1038/s41598-026-70307-w",
       "title": "Accelerated mass loss of glaciers across Alaska since the Little Ice Age",
       "authors": [
-        "Jonathan L. Carrivick",
+        "Jonathan Lee Carrivick",
         "Robert McNabb",
         "Bethan J. Davies",
         "Laura J. Larocca",
@@ -871,7 +999,7 @@
       "id": "doi:10.26117/2079-6641-2026-54-2-166-200",
       "title": "Electric Activity of Volcanic Clouds and Formation of Local Electric Field in Kamchatka",
       "authors": [
-        "Evgeniy Malkin",
+        "Evgeniy I. Malkin",
         "N. V. Cherneva"
       ],
       "published": "2026-09-15",
