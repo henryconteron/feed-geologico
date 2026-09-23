@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "posts": [
     {
       "id": "doi:10.5281/zenodo.7368979",
@@ -16,6 +16,106 @@
       "application": "",
       "url": "https://doi.org/10.5281/zenodo.7368979",
       "doi": "10.5281/zenodo.7368979",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.5281/zenodo.22903603",
+      "title": "Isotopic database for precipitation and groundwater in the Sierra de Segura. Province of Jaén. Spain.",
+      "authors": [
+        "Antonio Lope Morales-González",
+        "Jorge Jódar",
+        "Rosario Jiménez‐Espinosa",
+        "Antonio González Ramón",
+        "Francisco Moral Martos",
+        "Fernando Gázquez"
+      ],
+      "published": "2026-09-22",
+      "topic": "Hidrogeología",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "abstract_original": "This dataset contains stable isotope observations of precipitation and groundwater collected in the Sierra de Segura karst aquifer system, southern Spain. The dataset was developed to characterize the spatial and temporal variability of the isotopic composition of precipitation and groundwater and to support the assessment of recharge processes, groundwater circulation, and hydrological connectivity in a Mediterranean multilayer carbonate aquifer system. The dataset comprises 884 water samples, including 403 precipitation samples and 481 groundwater samples. Precipitation was collected at eight rainfall collectors (RC1–RC8) distributed across",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.5281/zenodo.22903603",
+      "doi": "10.5281/zenodo.22903603",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.5281/zenodo.22903604",
+      "title": "Isotopic database for precipitation and groundwater in the Sierra de Segura. Province of Jaén. Spain.",
+      "authors": [
+        "Antonio Lope Morales-González",
+        "Jorge Jódar",
+        "Rosario Jiménez‐Espinosa",
+        "Antonio González Ramón",
+        "Francisco Moral Martos",
+        "Fernando Gázquez"
+      ],
+      "published": "2026-09-22",
+      "topic": "Hidrogeología",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "abstract_original": "This dataset contains stable isotope observations of precipitation and groundwater collected in the Sierra de Segura karst aquifer system, southern Spain. The dataset was developed to characterize the spatial and temporal variability of the isotopic composition of precipitation and groundwater and to support the assessment of recharge processes, groundwater circulation, and hydrological connectivity in a Mediterranean multilayer carbonate aquifer system. The dataset comprises 884 water samples, including 403 precipitation samples and 481 groundwater samples. Precipitation was collected at eight rainfall collectors (RC1–RC8) distributed across",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.5281/zenodo.22903604",
+      "doi": "10.5281/zenodo.22903604",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.5281/zenodo.22064680",
+      "title": "Announcement of the Study Guide Subsurface Image and Parameter Estimation in Seismic Exploration",
+      "authors": [
+        "Sergey Alekseevich Gritsenko"
+      ],
+      "published": "2026-09-22",
+      "topic": "Geofísica",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "abstract_original": "In this book, we will delve into the mathematical world of seismic exploration, considering methods for constructing subsurface images from the standpoint of the geometrical theory of imaging, as well as methods for estimating geological-medium parameters by solving inverse kinematic and dynamic problems. Using Fermat’s principle, formulas for traveltime fields are derived. These formulas will help us gain a deeper understanding of the essence of the Common Depth Point (CDP) method and of ways to determine velocity from seismic data. Let us consider how interference can be suppressed by focusing over large apertures. This will allow us to bet",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.5281/zenodo.22064680",
+      "doi": "10.5281/zenodo.22064680",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.5281/zenodo.22898138",
+      "title": "Announcement of the Study Guide Subsurface Image and Parameter Estimation in Seismic Exploration",
+      "authors": [
+        "Sergey Alekseevich Gritsenko"
+      ],
+      "published": "2026-09-22",
+      "topic": "Geofísica",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "abstract_original": "In this book, we will delve into the mathematical world of seismic exploration, considering methods for constructing subsurface images from the standpoint of the geometrical theory of imaging, as well as methods for estimating geological-medium parameters by solving inverse kinematic and dynamic problems. Using Fermat’s principle, formulas for traveltime fields are derived. These formulas will help us gain a deeper understanding of the essence of the Common Depth Point (CDP) method and of ways to determine velocity from seismic data. Let us consider how interference can be suppressed by focusing over large apertures. This will allow us to bet",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.5281/zenodo.22898138",
+      "doi": "10.5281/zenodo.22898138",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.70286/eoss-21.09.2026.011.265-276",
+      "title": "EVIDENCE OF CRYOVOLCANISM ON NEPTUNE'S MOON TRITON",
+      "authors": [
+        "Anatoliy Vidmachenko"
+      ],
+      "published": "2026-09-21",
+      "topic": "Volcanología",
+      "venue": "Fuente académica",
+      "abstract_original": "Triton, a moon of Neptune, is one of the most enigmatic objects in the Solar System. In 1989, the “Voyager 2” spacecraft detected signs of significant geological activity on this icy moon. Triton orbits its planet in a retrograde path, with an orbital plane inclined at 129.8° to the ecliptic; this indicates an origin outside the Neptune system. Current models suggest that Triton formed in the Kuiper Belt as part of a binary dwarf planet system. It experienced a close encounter with Neptune during the migration of the giant planets in the early stages of their formation. Tidal forces exerted by Neptune severed the gravitational bond between th",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.70286/eoss-21.09.2026.011.265-276",
+      "doi": "10.70286/eoss-21.09.2026.011.265-276",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -71,7 +171,7 @@
         "G. De Astis"
       ],
       "published": "2026-09-20",
-      "topic": "Geofísica",
+      "topic": "Volcanología",
       "venue": "Scientific Reports",
       "abstract_original": "Abstract Volcanic unrest associated with increased hydrothermal activity is often difficult to interpret, yet it may culminate in hazardous steam-driven explosions or slope failures without magma intrusion. At La Fossa Caldera (Vulcano Island, Italy), recently affected by the 2021–ongoing unrest episode, we identify a porous scoriaceous horizon at ~ 615–655 m depth that is consistent with the inferred hydrothermal reservoir and confined by mechanically competent lava units. We combine field observations and borehole stratigraphy with high-resolution X-ray microtomography, petrophysical analyses, and in-situ uniaxial mechanical testing within ",
       "abstract_language": "source",
@@ -164,6 +264,25 @@
       "application": "",
       "url": "https://doi.org/10.29303/goescienceed.v7i4.3147",
       "doi": "10.29303/goescienceed.v7i4.3147",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.acags.2026.100406",
+      "title": "Identification of granitic pegmatites based on GF-5 hyperspectral data and LSTM-Transformer model",
+      "authors": [
+        "Zhong Li",
+        "Ziye Wang"
+      ],
+      "published": "2026-09-19",
+      "topic": "Geología minera",
+      "venue": "Applied Computing and Geosciences",
+      "abstract_original": "Lithium is a key strategic mineral to support new energy and advanced technology, mainly enriched in granitic pegmatite. The integration of hyperspectral remote sensing and deep learning frameworks has emerged as a leading approach for quantitative identification of pegmatites. However, deep learning algorithms are often limited by the scarcity of labeled samples and the challenge of extracting features from high-dimensional spectral data. In this study, a data augmentation-driven LSTM-Transformer framework is proposed for pegmatite mapping using GF-5 hyperspectral remote sensing data. In view of limited samples, this study constructed an enh",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.acags.2026.100406",
+      "doi": "10.1016/j.acags.2026.100406",
       "status": "automatic",
       "source": "OpenAlex"
     },
