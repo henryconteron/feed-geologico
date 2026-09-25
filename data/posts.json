@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "posts": [
     {
       "id": "doi:10.5281/zenodo.7368979",
@@ -16,6 +16,194 @@
       "application": "",
       "url": "https://doi.org/10.5281/zenodo.7368979",
       "doi": "10.5281/zenodo.7368979",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.9734/csji/2026/v35i51072",
+      "title": "Physicochemical Evaluation of Groundwater Quality in the City of Léré and its Surroundings, Mayo Kebbi West Region, South- Western Chad",
+      "authors": [
+        "Djimassingar Golngar",
+        "Mbai-Yelkom Fidel Karnot",
+        "Ahmat Al Tidjani Hissein",
+        "Al-Djazouli Ouchar Mahamat",
+        "Mahamat Seid Ali Malloum"
+      ],
+      "published": "2026-09-23",
+      "topic": "Hidrogeología",
+      "venue": "Chemical Science International Journal",
+      "abstract_original": "Groundwater is the principal source of domestic water in the city of Léré and its surroundings, Mayo-Kebbi-West Province, south- western Chad, yet its quality had never been systematically assessed prior to this study. This work aimed to (i) characterize the physicochemical quality of groundwater from fifteen sampling points, comprising seven boreholes (F1-F7) and eight wells (P1-P8), and (ii) evaluate its suitability for domestic use against World Health Organization guideline values (WHO, 2022). In-situ parameters (temperature, pH, electrical conductivity, total dissolved solids, and turbidity) were measured with a multiparameter probe (WTW",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.9734/csji/2026/v35i51072",
+      "doi": "10.9734/csji/2026/v35i51072",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1029/2026gl124103",
+      "title": "Permafrost Detachment Slides: A Distinct High‐Magnitude Permafrost Mass Wasting Process",
+      "authors": [
+        "Joseph M. Young",
+        "Jurjen van der Sluijs",
+        "S. V. Kokelj",
+        "Stephan Gruber",
+        "Teddi Herring",
+        "A. C. A. Rudy",
+        "Alejandro Alvarez",
+        "DUANE G. FROESE"
+      ],
+      "published": "2026-09-23",
+      "topic": "Geomorfología",
+      "venue": "Geophysical Research Letters",
+      "abstract_original": "Abstract Warming permafrost is destabilizing landscapes, intensifying thaw‐driven mass wasting and giving rise to novel landslide forms. We characterize two recent (2017 and 2018), deep‐seated translational failures that we term Permafrost Detachment Slides (PDSs), which rapidly translocated 4.5 and 18 × 10 6 m 3 of frozen material into downstream environments. The PDS failure mechanism involves bottom‐up thaw, initiating gradual movement of the entire permafrost layer, producing distinct failure styles and deposits. Initial movement results in extensional cracks that increase water infiltration, accelerating thaw at depth and slope failure. ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1029/2026gl124103",
+      "doi": "10.1029/2026gl124103",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1002/jqs.70116",
+      "title": "Ngarrawa (mound spring) sediments as archives of Holocene environmental change in arid central Australia: Insights from Itrax XRF scanning",
+      "authors": [
+        "Fletcher C. Nixon",
+        "Jonathan J. Tyler",
+        "Patricia  S. Gadd",
+        "Quan Hua"
+      ],
+      "published": "2026-09-23",
+      "topic": "Hidrogeología",
+      "venue": "Journal of Quaternary Science",
+      "abstract_original": "ABSTRACT Central Australia's ngarrawa, or ‘mound springs’, are unique hydrological systems that serve as some of the only near‐permanent sources of water and continuous sediment deposition in Australia's arid interior. As such, they hold significant potential as palaeo‐climate and ‐environmental archives in a region where many aspects of past climate remain uncertain. To date, few studies have investigated the potential of these sediments, including their stratigraphic integrity or if they can be radiocarbon‐dated. In this study, Itrax X‐ray fluorescence (XRF) scanning was performed on a series of sediment cores taken at Maka (Warburton Sprin",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1002/jqs.70116",
+      "doi": "10.1002/jqs.70116",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1002/wwp2.70111",
+      "title": "Beyond Dam Building: Addressing Water Scarcity in the Kurdistan Region of Iraq Under Climate Change",
+      "authors": [
+        "Sarmad Dashti Latif"
+      ],
+      "published": "2026-09-23",
+      "topic": "Hidrogeología",
+      "venue": "World Water Policy",
+      "abstract_original": "ABSTRACT Climate change is among the most significant global challenges affecting countries across the Middle East, particularly Iraq. Its impacts have contributed to declining rainfall levels and increased precipitation variability, intensifying existing water scarcity challenges. In response, policymakers in Iraq continue to face difficulties in developing sustainable approaches to water resource management, with many interventions focusing primarily on addressing immediate water shortages rather than underlying systemic challenges. This policy commentary draws on existing literature, regional reports, and observations related to water gove",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1002/wwp2.70111",
+      "doi": "10.1002/wwp2.70111",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1038/s41598-026-71309-4",
+      "title": "Application of depth migration velocity modeling technology based on multi-information constraint in deep seismic imaging",
+      "authors": [
+        "Lai Cao",
+        "Guanwen Gu",
+        "Ye Wu",
+        "Sun ShouCai",
+        "Shunji Wang",
+        "Yingjie Wang",
+        "Xinglong Lin"
+      ],
+      "published": "2026-09-23",
+      "topic": "Geofísica",
+      "venue": "Scientific Reports",
+      "abstract_original": "Abstract Accurate seismic imaging of deep, low signal-to-noise ratio zones in faulted basins remains a persistent challenge. To address this, we propose a pre-stack depth migration (PSDM) velocity modeling workflow that integrates multiple information constraints. Shallow velocities are derived from micro-logging constrained first-arrival inversion, while intermediate and deep interval velocities are converted from root-mean-square velocities using horizon-constrained constrained velocity inversion in the depth domain. Horizon-guided residual velocity analysis is iteratively applied from top to bottom, generating a low-frequency velocity mode",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1038/s41598-026-71309-4",
+      "doi": "10.1038/s41598-026-71309-4",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s11053-026-10780-2",
+      "title": "A Hybrid 3D CNN-GAT Framework with Entropy-Guided Adaptive Fusion for 3D Mineral Prospectivity Modeling",
+      "authors": [
+        "Cong Chen",
+        "Mingming Zhang",
+        "Xiaoyuan Wang",
+        "Lexuan Wang",
+        "Xiaohui Li"
+      ],
+      "published": "2026-09-23",
+      "topic": "Geología minera",
+      "venue": "Natural Resources Research",
+      "abstract_original": "Abstract Reliable three-dimensional (3D) mineral prospectivity modeling for concealed ore targeting remains challenging because voxel-based models emphasize local volumetric patterns, whereas nonlocal spatial relationships among sampled locations and prediction reliability are not jointly represented. To address this problem, this study developed a hybrid 3D CNN-graph attention network (GAT) framework for the Anqing skarn Cu district, eastern China. A ResNet3D-S&E branch extracts local structural patterns from 7 × 7 × 7 voxel patches, while a GATv2 branch represents coordinate-based neighborhood relationships among sampled voxels. Predictive ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1007/s11053-026-10780-2",
+      "doi": "10.1007/s11053-026-10780-2",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.22761/gd.2026.0030",
+      "title": "Water Quality Assessment Using a Groundwater Hydrochemical Dataset from the Geum River Basin, Chungcheong Region",
+      "authors": [
+        "Sooyeon Han",
+        "Jong-Gyu Han",
+        "Soonyoung Yu",
+        "Dong Kyu Park",
+        "Hanna Choi"
+      ],
+      "published": "2026-09-22",
+      "topic": "Hidrogeología",
+      "venue": "GEO DATA",
+      "abstract_original": "",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.22761/gd.2026.0030",
+      "doi": "10.22761/gd.2026.0030",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.62476/ge.43279",
+      "title": "The Specifics of the Production and Operational Activities of an Azerbaijani Gold Mining Company",
+      "authors": [],
+      "published": "2026-09-22",
+      "topic": "Geología minera",
+      "venue": "Green economics.",
+      "abstract_original": "The article examines the specific characteristics of gold mining enterprises in Azerbaijan.Based on a SWOT analysis of the gold mining company Anglo Asian Mining, the key factors affecting the efficiency of the gold mining industry as a whole were identified, assessed and ranked.It was found that Anglo Asian Mining, the British gold mining company operating in Azerbaijan, serves as a clear example of a company with high-quality assets and low operating costs.The company successfully benefits from the Production Sharing Agreement (PSA).The study concludes that the company has no activities that it could reduce or exit entirely in order to elim",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.62476/ge.43279",
+      "doi": "10.62476/ge.43279",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.7936/ewy7-ey88",
+      "title": "Process from Noise: Erosion Threshold Variability and the Morphology of Gravel-Bed Rivers",
+      "authors": [
+        "Robert P. Kostynick"
+      ],
+      "published": "2026-09-22",
+      "topic": "Geomorfología",
+      "venue": "Open Scholarship Institutional Repository (Washington University in St. Louis)",
+      "abstract_original": "Rivers are remarkably consistent as their geometry, width, depth, and slope change systematically downstream in response to differences in fluid discharge and sediment transport throughout a channel. Rivers move both water and sediment through terrains that depend on these downstream geometric adjustments influencing water quality, ecology, infrastructure, channel morphology, and landscape evolution at increasing timescales respectively. Rivers thus influence all aspects of life and define our spatial landscapes that shape boundaries, whether physical, politically, or socially. Nevertheless, a river is dynamic and does not adhere to human-def",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.7936/ewy7-ey88",
+      "doi": "10.7936/ewy7-ey88",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -66,6 +254,105 @@
       "source": "OpenAlex"
     },
     {
+      "id": "doi:10.56201/ijaes.vol.12.no8.2026.pg43.60",
+      "title": "Geology, Types and Implication of Leucosomes in Migmatite at Lauki, Sheet 148, Toro SE, Bauchi State; Nigeria",
+      "authors": [
+        "S.D. Abegunde"
+      ],
+      "published": "2026-09-22",
+      "topic": "Geología minera",
+      "venue": "INTERNATIONAL JOURNAL OF AGRICULTURE AND EARTH SCIENCE",
+      "abstract_original": "This study investigates the geology, types and implication of leucosomes in migmatite of Lauki and environs, Sheet 148, Toro Southeast, Bauchi State, Nigeria, Geological mapping identified the principal lithologies as stromatic metatexites, leucosomes, quartzite, dolerite trachy andesite and pegmatite. Field relationships indicate that the leucosomes in contact with the metatexites formed by localized partial melting, whereas the leucosome without any visible contact with metatexite represent mobilized felsic melts emplaced along structural pathways. Petrographic evidence, including biotite depletion, quartz–feldspar assemblages, myrmekitic t",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.56201/ijaes.vol.12.no8.2026.pg43.60",
+      "doi": "10.56201/ijaes.vol.12.no8.2026.pg43.60",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.56201/ijgem.vol.12.no8.2026.pg112.129",
+      "title": "Geology and Petrology of Buji Younger Granite Complex of North Central Nigeria",
+      "authors": [
+        "A. O. Eragbe"
+      ],
+      "published": "2026-09-22",
+      "topic": "Geología minera",
+      "venue": "IIARD INTERNATIONAL JOURNAL OF GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+      "abstract_original": "This study presents a comprehensive petrographic, and mineralogical evaluation of the Buji Younger Granite Complex in North-Central Nigeria, the Buji Younger Granite complex, five (5) major rock units were identified. Namely, Syenite, Nepheline Syenite, Biotite Granites, late and early rhyolites and fine and medium grained biotite granites. The complex comprises of plutonic rocks such as fine and medium grained biotite granites, riebeckite biotite granites and Buji biotite granites which showcases a distinctive mineral composition, primarily consisting of quartz, feldspar, and biotite mica as well as volcanic rocks such as the rhyolites which",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.56201/ijgem.vol.12.no8.2026.pg112.129",
+      "doi": "10.56201/ijgem.vol.12.no8.2026.pg112.129",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1093/gji/ggag378",
+      "title": "Earthquake recurrence and seismic cycle variability in the central apennines from simulated earthquake catalogs",
+      "authors": [
+        "Khatereh Saghatforoush",
+        "Bruno Pace",
+        "Alessandro Verdecchia",
+        "Octavi Gómez-Novell",
+        "Olaf Zielke",
+        "Francesco Visini",
+        "Laura Peruzza"
+      ],
+      "published": "2026-09-22",
+      "topic": "Tectónica activa",
+      "venue": "Geophysical Journal International",
+      "abstract_original": "Summary The Central Apennines (Italy) host a distributed network of active normal faults capable of generating infrequent but destructive earthquakes with recurrence intervals that often exceed the duration of available historical and paleoseismological records. This observational limitation hampers our understanding of long-term fault behavior, seismic cycle variability, and multi-fault rupture potential. In this study, we apply the MCQsim earthquake-cycle simulator to a three-dimensional fault model comprising 42 major active normal faults in the Central Apennines, generating seven 100 000-year synthetic earthquake catalogs by systematicall",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1093/gji/ggag378",
+      "doi": "10.1093/gji/ggag378",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.66104/0evd3w87",
+      "title": "Dysprosium Under Supply Constraint: A Critical Review of Demand Growth, HREE Supply Concentration, Magnet-Efficiency Strategies, Recycling, and the Potential Supply–Demand Gap",
+      "authors": [
+        "Antônio Clareti Pereira"
+      ],
+      "published": "2026-09-22",
+      "topic": "Geología minera",
+      "venue": "Journal International Review of Research Studies",
+      "abstract_original": "Dysprosium (Dy) occupies a disproportionate strategic position in the rare-earth economy because small additions can sustain the coercivity and high-temperature performance of neodymium–iron–boron (NdFeB) permanent magnets used in traction motors, wind generators, industrial drives, aerospace systems, and other demanding applications. This critical review examines the 2020–2026 literature through a supply–demand lens that explicitly separates geological occurrence, marketable primary supply, midstream conversion capacity, technological Dy intensity, secondary supply, and demand avoided through substitution or redesign. The central argument is",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.66104/0evd3w87",
+      "doi": "10.66104/0evd3w87",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.36948/ijfmr.2026.v08i05.87524",
+      "title": "Assessing Current Patterns and Impacts of Climate Change on Water Resources in Leh-Ladakh",
+      "authors": [
+        "Fatima Amin",
+        "Deeksha Katyal",
+        "Anil K Gupta -",
+        "Himani Bal -"
+      ],
+      "published": "2026-09-22",
+      "topic": "Hidrogeología",
+      "venue": "International Journal For Multidisciplinary Research",
+      "abstract_original": "Climate change and global warming have significantly impacted the water cycle and water resources in the Himalayan region. This study focused on the effects of climate change and human intervention on water resources in the Ladakh region over the past decades. Changes in snowfall and glacial patterns, rapid runoff, and erratic rainfall due to changes in the snow season and an increase in temperature have resulted in water scarcity in this area. Primary and secondary data on groundwater status, temperature changes, precipitation, glacial retreat, and increased water demand were collected and analyzed. Thus, this study aimed to evaluate the eco",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.36948/ijfmr.2026.v08i05.87524",
+      "doi": "10.36948/ijfmr.2026.v08i05.87524",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
       "id": "doi:10.5281/zenodo.22064680",
       "title": "Announcement of the Study Guide Subsurface Image and Parameter Estimation in Seismic Exploration",
       "authors": [
@@ -102,6 +389,27 @@
       "source": "OpenAlex"
     },
     {
+      "id": "doi:10.1017/irq.2025.10037",
+      "title": "LANDSCAPE ARCHAEOLOGY OF THE ERIDU REGION: DISCOVERING THE IRRIGATION SYSTEMS OF ANCIENT FARMS",
+      "authors": [
+        "Louise Rayne",
+        "Michelle de Gruchy",
+        "Jaafar Jotheri",
+        "Raheem Abdan"
+      ],
+      "published": "2026-09-21",
+      "topic": "Geomorfología",
+      "venue": "Iraq",
+      "abstract_original": "This paper presents the results of an interdisciplinary study of water management around the site of Eridu in southern Iraq, using remote sensing, field survey and scientific dating to investigate the chronology of irrigation technologies. Our area of interest (AOI) encompasses several crevasse splays and canals fanning out from the relict Euphrates close to Eridu. On satellite imagery, some channels appear to overlay others, representing a sequence of irrigation over time. These were mapped using high resolution satellite imagery including VISION-1 and imagery available via Google Earth. Fieldwork was then conducted in 2020, and samples were",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1017/irq.2025.10037",
+      "doi": "10.1017/irq.2025.10037",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
       "id": "doi:10.70286/eoss-21.09.2026.011.265-276",
       "title": "EVIDENCE OF CRYOVOLCANISM ON NEPTUNE'S MOON TRITON",
       "authors": [
@@ -116,6 +424,49 @@
       "application": "",
       "url": "https://doi.org/10.70286/eoss-21.09.2026.011.265-276",
       "doi": "10.70286/eoss-21.09.2026.011.265-276",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.2166/bgs.2026.001",
+      "title": "Blue space accessibility, quality, and equity in the Global South: the renaturalization of urban stream corridors in Medellín",
+      "authors": [
+        "Gonzalo Pradilla",
+        "Jochen Hack"
+      ],
+      "published": "2026-09-21",
+      "topic": "Geomorfología",
+      "venue": "Blue-Green Systems",
+      "abstract_original": "ABSTRACT Blue urban spaces foster mental health and well-being, yet they remain understudied compared to green spaces. Latin American cities are adopting green infrastructure, sponge cities, and nature-based solutions to improve ecological connectivity, multifunctionality, and climate adaptation. This study examines urban nature in Colombia's second-largest city, which is implementing a network of blue and green corridors. Using publicly available satellite, municipal, and Google Street View data, we assessed ecosystem services of nearly 300 streams, evidencing widespread degradation. Nearly 40% of reaches are buried; 70% of those remaining a",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.2166/bgs.2026.001",
+      "doi": "10.2166/bgs.2026.001",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1029/2026jh001578",
+      "title": "Adapting a Pretrained LLM to Rapidly Recover Earthquake Magnitude and Location",
+      "authors": [
+        "Aurora Bassani",
+        "Daniele Trappolini",
+        "Giulio Poggiali",
+        "Elisa Tinti",
+        "Fabio Galasso",
+        "Alberto Michelini",
+        "Chris J. Marone"
+      ],
+      "published": "2026-09-21",
+      "topic": "Geofísica",
+      "venue": "Journal of Geophysical Research Machine Learning and Computation",
+      "abstract_original": "Abstract Determining earthquake magnitude and location through fast, automated methods is fundamental for seismic monitoring. Recent studies have shown that Large Language Models (LLMs) can operate as pattern‐recognition systems capable of handling novel domains and purely numerical tasks. Here, we assess the utility of LLMs for earthquake characterization and propose a novel approach based on a small LLM called TinyLlama. We adapt the LLM for seismology through fine‐tuning on a subset of Italian earthquakes using the LoRA technique, which involves retraining only about of the model parameters. Our method takes station coordinates, P‐wave arr",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1029/2026jh001578",
+      "doi": "10.1029/2026jh001578",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -966,17 +1317,17 @@
       "id": "doi:10.1093/gji/ggag377",
       "title": "Regional 3-D electrical resistivity model of Mongolia: Constraining lithospheric properties and architecture",
       "authors": [
-        "R Rigaud",
-        "M J Comeau",
-        "B Erdenechimeg",
-        "M Kruglyakov",
+        "Rafael Rigaud",
+        "M.J. Comeau",
+        "Batmagnai Erdenechimeg",
+        "Mikhail Kruglyakov",
         "A Kuvshinov",
         "M Becken",
-        "J Plett",
-        "H Treppke",
-        "T Shoovdor",
+        "Johanna PLETT",
+        "H. Treppke",
+        "Tserendug Shoovdor",
         "D Sodnomsambuu",
-        "O Chimed"
+        "Odonbaatar Chimed"
       ],
       "published": "2026-09-16",
       "topic": "Tectónica activa",
@@ -1255,7 +1606,7 @@
       "title": "Joint inversion of seismic and geoelectrical data targeting geological faults",
       "authors": [
         "Mauricio Arboleda‐Zapata",
-        "Olaf Cirpka",
+        "Olaf Arie Cirpka",
         "Peter Dietrich",
         "Emmanuel LEGER",
         "Carsten Leven"
