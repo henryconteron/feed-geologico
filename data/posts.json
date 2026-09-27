@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "posts": [
     {
       "id": "doi:10.5281/zenodo.7368979",
@@ -16,6 +16,318 @@
       "application": "",
       "url": "https://doi.org/10.5281/zenodo.7368979",
       "doi": "10.5281/zenodo.7368979",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.71317/jgst.2.9(s2).2026.696",
+      "title": "Hydrological Extremes and Groundwater Sustainability Under Climate Variability and Anthropogenic Water Stress: A Systematic Review and Conceptual Framework",
+      "authors": [
+        "Sher Muhammad Ghoto",
+        "Sheeraz Memon",
+        "Habibullah Abbasi",
+        "Imran Aziz Tunio"
+      ],
+      "published": "2026-09-26",
+      "topic": "Hidrogeología",
+      "venue": "Journal of Global Social Transformation",
+      "abstract_original": "Sustainability Groundwater in Lower Indus Basin aspiring to ⁠becomes more difficult to achieve from Climate Variability and Water Stress induced by human activities in Pakistan. This systematic study summarizes empirical science from hydrogeology, hydrogeochemistry, climatology, and agricultural engineering to assess how climatic extremes, unregulated groundwater extraction, and infrastructure breakdowns may have stressed groundwater in District Shaheed Benazirabad(SB) in the Province of Sindh in Pakistan. A onfined to non-confined district along the left bank of the Indus River is characterized by a hyper-arid to semi-arid climate, low relie",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.71317/jgst.2.9(s2).2026.696",
+      "doi": "10.71317/jgst.2.9(s2).2026.696",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s12665-026-13146-2",
+      "title": "Sabkha systems of the United Arab Emirates as integrated carbonate–evaporite laboratories: facies architecture, brine evolution, critical-element potential, and geoheritage significance",
+      "authors": [
+        "Mostafa. R. Abukhadra",
+        "Mohammed Al-zharani",
+        "Ahmed A. Allam",
+        "Mohammad Ahmad Hamdan",
+        "Péter Szűcs",
+        "Mohamed Hamdy Eid"
+      ],
+      "published": "2026-09-25",
+      "topic": "Geomorfología",
+      "venue": "Environmental Earth Sciences",
+      "abstract_original": "Sabkha systems of the United Arab Emirates (UAE) represent one of the world’s most extensively documented modern carbonate–evaporite settings, yet their multidisciplinary significance has not previously been synthesized within a unified process-based framework. This review integrates sedimentological architecture, hydrogeochemical dynamics, geomicrobiological mediation, radiogeochemical behaviour, and resource-oriented implications across coastal and inland sabkha domains. We demonstrate that UAE sabkhas are not static evaporite flats but highly reactive hydrogeochemical systems characterized by lateral facies zonation, vertical brine stratif",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1007/s12665-026-13146-2",
+      "doi": "10.1007/s12665-026-13146-2",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s44288-026-00731-y",
+      "title": "Quantifying spatiotemporal land subsidence rates and deformation hotspots using integrated GNSS and InSAR in Nakuru County, Kenya",
+      "authors": [
+        "Turyamureeba Esau",
+        "Arthur Sichangi",
+        "Moses Karoki Gachari"
+      ],
+      "published": "2026-09-25",
+      "topic": "Hidrogeología",
+      "venue": "Discover Geoscience",
+      "abstract_original": "Land subsidence is an emerging environmental and geohazard challenge in groundwater-dependent and tectonically active regions. This study quantified the spatiotemporal distribution of land subsidence in Nakuru County, Kenya, between 2014 and 2024 using an integrated Persistent Scatterer–Small Baseline Subset (PS–SBAS) Interferometric Synthetic Aperture Radar (InSAR) approach supported by Global Navigation Satellite System (GNSS) validation and spatial statistical analysis. A total of 124 Sentinel-1 A ascending-orbit scenes were processed using SNAP 10.0, incorporating SNAPHU phase unwrapping, ERA5 atmospheric correction, and line-of-sight to ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1007/s44288-026-00731-y",
+      "doi": "10.1007/s44288-026-00731-y",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3301/rol.2026.34",
+      "title": "Natural sinkholes of Abruzzo (central Italy): expansion of ISPRA National Database and susceptibility analysis",
+      "authors": [
+        "Debora Maceroni",
+        "Stefania Nisio",
+        "Giancarlo Ciotoli",
+        "Sergio Madonna"
+      ],
+      "published": "2026-09-25",
+      "topic": "Tectónica activa",
+      "venue": "Rendiconti online della Società Geologica Italiana",
+      "abstract_original": "The term sinkhole refers to sudden ground subsidence caused by natural or anthropogenic factors and represents a locally significant geological hazard. In Italy, natural sinkholes are included in ISPRA’s National Sinkhole Database, mainly in plains, coastal zones, and tectonic intermontane basins. The Abruzzo is among the most susceptible areas due to its geological complexity and seismic activity, with approximately 100 previously cataloged sinkholes, many linked to major earthquakes in the Upper Aterno River Valley, the Fucino basin, and the Sulmona basin. This study aims to expand the database and improve knowledge of sinkhole occurrence i",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.3301/rol.2026.34",
+      "doi": "10.3301/rol.2026.34",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.21923/jesd.1964597",
+      "title": "MODELING OF SEA WATER INTRUSION AND POSSIBLE SCENARIOS FOR GROUNDWATER USE: THE CASE OF THE TUNIS COTE ORIENTALE AQUIFER",
+      "authors": [
+        "Murat Kilit",
+        "Ahmet Doğan"
+      ],
+      "published": "2026-09-25",
+      "topic": "Hidrogeología",
+      "venue": "Mühendislik Bilimleri ve Tasarım Dergisi",
+      "abstract_original": "The Cote-Orientale coastal aquifer in northeastern Tunisia, covering 430 km², is under increasing pressure from intensive groundwater abstraction for irrigation. This study investigates the spatial and temporal evolution of seawater intrusion and evaluates management strategies using a coupled groundwater-flow and solute-transport model. A MODFLOW model was developed and calibrated under steady-state conditions using hydraulic-head, recharge, and abstraction data for 2004. A nine-layer SEAWAT model then simulated variable-density groundwater flow and salinity transport. Calibration produced root mean square error values of 2.98 m for hydrauli",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.21923/jesd.1964597",
+      "doi": "10.21923/jesd.1964597",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1002/jqs.70120",
+      "title": "First finding of Icelandic tephra in Czechia: Vedde Ash identified in palaeolake sediments of Stará Jímka",
+      "authors": [
+        "Verena S. Meier",
+        "Simon A. Larsson",
+        "Martin Ráček",
+        "Daniel Vondrák"
+      ],
+      "published": "2026-09-25",
+      "topic": "Volcanología",
+      "venue": "Journal of Quaternary Science",
+      "abstract_original": "ABSTRACT In this study, we report the first documented occurrence of the Icelandic Vedde Ash (VA) in the Bohemian Forest, identified within palaeolake sediments from Stará Jímka, Czechia, representing the first Icelandic tephra layer identified in Czechia. As part of ongoing efforts to close existing tephrochronological gaps in Eastern Central Europe, two parallel lacustrine sediment cores were investigated for the presence of cryptotephra layers. Two discrete tephra horizons were identified: one corresponding to the previously reported Laacher See Tephra (~13 ka BP) and a second layer (found in both cores) that we attribute to the VA (~12 ka",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1002/jqs.70120",
+      "doi": "10.1002/jqs.70120",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.5194/amt-19-6145-2026",
+      "title": "Feasibility of measuring volcanic gas composition using sky-scattered sunlight and FTIR spectroscopy",
+      "authors": [
+        "Tobias Dieter Schmitt",
+        "Moritz Sindram",
+        "Benedikt A. Löw",
+        "Lukas Weis",
+        "Ralph Kleinschek",
+        "Nicole Bobrowski",
+        "André Butz"
+      ],
+      "published": "2026-09-25",
+      "topic": "Volcanología",
+      "venue": "Atmospheric measurement techniques",
+      "abstract_original": "Monitoring volcanic emissions is essential for understanding volcanic processes and predicting eruption dynamics. Remote sensing is the only method that allows safe measurements right before, during, and after eruptions. Current monitoring relies on scattered sunlight, whose essentially unconstrained viewing geometry permits continuous and automated observation. It is, however, mostly limited to the ultraviolet and visible (UV-VIS) spectral ranges by the available sky brightness, restricting observations largely to SO 2 . Here, we assess the feasibility of constraining volcanic emissions by passive Fourier transform infrared (FTIR) spectrosco",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.5194/amt-19-6145-2026",
+      "doi": "10.5194/amt-19-6145-2026",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.56201/rjpst.vol.8.no7.2025.pg86.98",
+      "title": "Evaluating the Impact of Geophysical Survey Activities on Local Communities in Jimeta",
+      "authors": [
+        "F. M Sahabo"
+      ],
+      "published": "2026-09-25",
+      "topic": "Geofísica",
+      "venue": "RESEARCH JOURNAL OF PURE SCIENCE AND TECHNOLOGY",
+      "abstract_original": "This study evaluates the impact of geophysical survey activities on local communities in Jimeta, Nigeria. Geophysical surveys, although crucial for mineral and resource exploration, often generate social and environmental concerns when not properly managed. The study employed a quantitative approach using an online questionnaire distributed among community members. A total of 150 responses were analyzed to understand the demographic distribution, awareness levels, perceived impacts, and sources of dissatisfaction related to geophysical activities. Findings revealed that 78% of respondents were aware of geophysical operations in their locality",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.56201/rjpst.vol.8.no7.2025.pg86.98",
+      "doi": "10.56201/rjpst.vol.8.no7.2025.pg86.98",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1186/s40562-026-00506-w",
+      "title": "Enhanced hyperspectral classification for geological mapping based on spatial–spectral novel framework of vision transformers and mamba models on PRISMA data at Arabian–Nubian Shield",
+      "authors": [
+        "Noureldin Laban",
+        "Safaa M. Hassan",
+        "Hind H. Zeyada",
+        "Mohamed R. Metwalli",
+        "Saif M. Abo Khashaba"
+      ],
+      "published": "2026-09-25",
+      "topic": "Geología minera",
+      "venue": "Geoscience Letters",
+      "abstract_original": "Abstract Lithological mapping of arid Precambrian basement underpins mineral exploration across the Arabian-Nubian Shield (ANS), where rugged, poorly accessible exposures make field campaigns slow and costly, and where serpentinites, ophiolitic mélange, granitoids and hydrothermal alteration of economic interest occur in close spatial association. Spaceborne hyperspectral imaging resolves the narrow mineral absorptions that distinguish these units and offers a route to rapid, reproducible regional reconnaissance. We present an open, end-to-end framework that converts PRISMA Level-2D imagery into an analysis-ready, MNF-augmented data cube and ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1186/s40562-026-00506-w",
+      "doi": "10.1186/s40562-026-00506-w",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1002/jqs.70117",
+      "title": "Electron probe microanalysis of extremely fine‐grained tephras: new protocols and insights for analyses at the 1 μm scale",
+      "authors": [
+        "C. R. Smith",
+        "William R. Hutchison",
+        "Iris Buisman",
+        "Sally Law",
+        "Ian T. Lawson",
+        "Richard T. Streeter",
+        "Andrea Burke"
+      ],
+      "published": "2026-09-25",
+      "topic": "Volcanología",
+      "venue": "Journal of Quaternary Science",
+      "abstract_original": "ABSTRACT Volcanic ash (tephra) provides an important chronostratigraphic framework for correlating Quaternary records. In ultra‐distal (1500 km) settings such as ice cores and marine sediments, deposits are typically preserved as cryptotephra composed of glass shards m. This poses challenges for accurate geochemical characterization as conventional EPMA–WDS methods require beam diameters of m to limit alkali migration, restricting their application to extremely fine‐grained tephra. Here, we develop and evaluate a quantitative m/1 nA EPMA–WDS method for cryptotephra analysis. Analyses of basaltic to rhyolitic glass standards demonstrate that a",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1002/jqs.70117",
+      "doi": "10.1002/jqs.70117",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.resourpol.2026.106049",
+      "title": "Critical minerals and investment frameworks: Formalizing the bankability framework",
+      "authors": [
+        "Hugo Morão"
+      ],
+      "published": "2026-09-25",
+      "topic": "Geología minera",
+      "venue": "Resources Policy",
+      "abstract_original": "Private investment in critical mineral projects is arguably not scaling at the pace required to meet projected demand, despite adequate reserves and abundant long-duration capital. The binding constraint is bankability. A recent policy framework matches mineral market structure, jurisdictional risk, and project lifecycle stage to six policy instruments; its core insight, that bankability failures are market- and stage-specific, is correct. The framework states the right principles but stops short of an operational decision procedure: it provides no rule for sequencing instruments when the dimensions conflict, no additionality test, and no hie",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.resourpol.2026.106049",
+      "doi": "10.1016/j.resourpol.2026.106049",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.56201/ijgem.vol.12.no1.2026.pg113.130",
+      "title": "Assessment of Heavy Metal Leaching from Metro Tile Roofs and Its Influence on Soil Quality in the Western Niger Delta",
+      "authors": [
+        "Macbeth Okushi"
+      ],
+      "published": "2026-09-25",
+      "topic": "Hidrogeología",
+      "venue": "IIARD INTERNATIONAL JOURNAL OF GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+      "abstract_original": "Metro tile roofing sheet contains heavy metals as part of its composition. They are often released when the roofs are exposed in sun and rain. They are deposited on the surface of nearby soil as sink and are in turn infiltrating into underlying soils. To investigate the extent to which metro tile roofs degrade nearby soil, a total number of twenty samples of soil from 0 cm to 15cm and 15 cm to 30 cm depths during the dry and wet season respectively were sampled. Metro tile roof runoff was collected during the wet season. Both soils and water samples were analyzed for Cu²⁺, Cr³⁺, Cd²⁺, Zn²⁺, Pb²⁺, and Al³⁺. The soil pH ranged from 5.0–6.8 (wet",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.56201/ijgem.vol.12.no1.2026.pg113.130",
+      "doi": "10.56201/ijgem.vol.12.no1.2026.pg113.130",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.56201/rjpst.vol.8.no8.2025.pg157.169",
+      "title": "Assessment of Groundwater Quality around Abandoned Quarry Ponds near Lower Benue Trough, Nigeria",
+      "authors": [
+        "E. K Ogini"
+      ],
+      "published": "2026-09-25",
+      "topic": "Hidrogeología",
+      "venue": "RESEARCH JOURNAL OF PURE SCIENCE AND TECHNOLOGY",
+      "abstract_original": "A field study was conducted on the Assessment of Groundwater Quality around Abandoned Quarry Ponds near Lower Benue Trough, Nigeria. Water samples were collected using 1liter amber glass bottles each fitted with a screw cap and lined with foil from the four abandoned quarry pits measured fifty meters (50m) deep. These were labeled ABP 1, ABP 2, ABP 3, ABP 4, while the wells were labeled HDW (hand dug wells) measured eighty meters (80m) deep and BH (borehole), measured two hundred eighty meters (280m). In-situ measurements were done with HORIBA U-10 Water Quality Checker to determine pH, temperature, total dissolved solids, turbidity, conducti",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.56201/rjpst.vol.8.no8.2025.pg157.169",
+      "doi": "10.56201/rjpst.vol.8.no8.2025.pg157.169",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3389/feart.2026.1898241",
+      "title": "Adaptive seismic diffraction separation via a hybrid attention-based CASCU network",
+      "authors": [
+        "Juan Chen",
+        "Mengjun Cao",
+        "Lei Yu",
+        "Chao Ma",
+        "Haokun Wang",
+        "Xiaoliang Liu",
+        "Jianping Huang"
+      ],
+      "published": "2026-09-25",
+      "topic": "Geofísica",
+      "venue": "Frontiers in Earth Science",
+      "abstract_original": "Diffractions carry critical information about small-scale subsurface heterogeneities, such as faults, pinch-outs, salt domes, and fractured-vuggy reservoirs; therefore, identifying and characterizing these diffractive bodies has been a central focus in geophysical research. However, existing deep learning methods still suffer from insufficient separation accuracy when dealing with complex seismic data. In this study, we propose a hybrid model named CASCU, which integrates a U-shaped convolutional architecture with the Swin Transformer. The model overcomes the inherent limitations of conventional convolutional neural networks (CNNs), including",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.3389/feart.2026.1898241",
+      "doi": "10.3389/feart.2026.1898241",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1038/s43247-026-04097-4",
+      "title": "Upscaling sediment source prediction for watershed management",
+      "authors": [
+        "Abigal Percich",
+        "Allen Gellis",
+        "James F. Fox",
+        "Admin Husic"
+      ],
+      "published": "2026-09-24",
+      "topic": "Geomorfología",
+      "venue": "Communications Earth & Environment",
+      "abstract_original": "Abstract Identifying sources of erosion is critical for effective watershed management, but existing fingerprinting methods remain resource-intensive and difficult to standardize or scale. To address this, we compiled a global synthesis of 142 sediment tracing studies across 267 watersheds and developed an explainable machine learning framework that predicts sediment provenance using remotely sensed attributes. Four sediment categories capture global erosion sources—subsurface, cultivated, non-cultivated, and infrastructure—and our model predicts their contributions with robust accuracy (R 2 = 0.40–0.53). Model interpretation confirms that pr",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1038/s43247-026-04097-4",
+      "doi": "10.1038/s43247-026-04097-4",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -114,7 +426,7 @@
       "authors": [
         "Rodrigo Sérgio de Paula",
         "Thais Guedes Ayres Silva",
-        "Ana Gonçalves",
+        "Ana Maria Nascimento Gonçalves",
         "Gabriel Coelho Diniz Lopes de Sousa",
         "Letícia Pereira dos Santos Monteiro",
         "Luiza Monteiro Espíndola Soares",
@@ -123,7 +435,7 @@
         "Paulo Galvão"
       ],
       "published": "2026-09-24",
-      "topic": "Hidrogeología",
+      "topic": "Geomorfología",
       "venue": "Águas Subterrâneas",
       "abstract_original": "This paper presents an intrinsic vulnerability analysis performed in the Lagoa Santa Karst Environmental Protection Area (EPA), north of Belo Horizonte, Minas Gerais, Brazil. This region contains important karstic and fissure-karstic aquifers, essential water sources for urban, industrial and agricultural uses. Classifying the area into contamination vulnerability classes provides a basis for sustainable aquifer management by competent regulatory agencies, ensuring water availability for present and future populations. The area was analyzed using the parametric system EPIK, which utilizes specific geological, geomorphological, and hydrologica",
       "abstract_language": "source",
@@ -151,6 +463,29 @@
       "application": "",
       "url": "https://doi.org/10.4401/ag-9559",
       "doi": "10.4401/ag-9559",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3389/feart.2026.1916563",
+      "title": "Geochronological and fluid-inclusion constraints on the Ediacaran-early Cambrian tectonothermal evolution of the Ithaca Basin, eastern Laurentia",
+      "authors": [
+        "David Valentino",
+        "Alexander Gates",
+        "Jeffrey R. Chiarenzelli",
+        "Matthew Severs",
+        "Sarah Brehm",
+        "T. E. Jordan"
+      ],
+      "published": "2026-09-24",
+      "topic": "Geofísica",
+      "venue": "Frontiers in Earth Science",
+      "abstract_original": "In 2022, an experimental geothermal deep borehole (ESH-1) was drilled 2978 m through the Appalachian Basin to test the viability of unconventional geothermal energy as a heat source for Cornell University in Ithaca, New York, U.S.A. The borehole encountered unexpected greenschist facies, Neoproterozoic interlayered phyllite and metavolcanics (Cayuta Formation, Ithaca Basin) from 2859 to 2978m (below the surface) beneath the Paleozoic sedimentary rocks. Rocks of the Ithaca Basin record a previously documented tectonothermal event. New geochronology was completed to constrain the timing of the event, and was integrated with petrology and fluid ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.3389/feart.2026.1916563",
+      "doi": "10.3389/feart.2026.1916563",
       "status": "automatic",
       "source": "OpenAlex"
     },
