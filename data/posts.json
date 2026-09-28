@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "posts": [
     {
       "id": "doi:10.5281/zenodo.7368979",
@@ -16,6 +16,158 @@
       "application": "",
       "url": "https://doi.org/10.5281/zenodo.7368979",
       "doi": "10.5281/zenodo.7368979",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.12911/22998993/231043",
+      "title": "The impact of hydropower on the riverbed processes of the Middle Dniester",
+      "authors": [
+        "Khrystyna Burshtynska",
+        "Andrzej Mazur",
+        "Nazar Hrytskiv",
+        "Yulia Petryk",
+        "Iryna Zayats"
+      ],
+      "published": "2026-09-27",
+      "topic": "Geomorfología",
+      "venue": "Journal of Ecological Engineering",
+      "abstract_original": "The article examines the impact of hydropower on channel processes and landscape changes of the Middle Dniester within the canyon section.Both positive aspects of hydropower development are analyzed, in particular its role as a renewable energy source and a tool for water resource regulation, as well as negative consequences associated with the transformation of the natural environment.The research methodology is based on the integrated use of cartographic materials from different time periods (two-verst maps of the early 20th century, General Staff maps of the second half of the 20th century) and modern satellite imagery.Methods of geospatia",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.12911/22998993/231043",
+      "doi": "10.12911/22998993/231043",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1038/s41598-026-72697-3",
+      "title": "Mineralogical and geochemical constraints on high-sulfidation epithermal alteration in the Zamharir kaolin deposit, northwestern Iran",
+      "authors": [
+        "Ali Abedini",
+        "Ali Asghar Calagari",
+        "Ahmet Sasmaz"
+      ],
+      "published": "2026-09-27",
+      "topic": "Geología minera",
+      "venue": "Scientific Reports",
+      "abstract_original": "The Zamharir kaolin deposit in northwestern Iran represents hydrothermal alteration of the Oligocene andesitic rocks within a high-sulfidation epithermal system. Mineralogical assemblages display conspicuous spatial zonation, with kaolinite, alunite, pyrite, and rutile concentrated in the central part of the deposit, whereas peripheral zones are characterized by smectite, illite, and goethite. Mass balance calculations indicate extensive depletion of major, trace, and rare earth elements, including Si, Fe, Ti, Ca, Mg, Na, K, P, Rb, Cs, Ni, U, Cr, Co, and heavy rare earth elements (HREE), throughout the hydrothermal system. These geochemical p",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1038/s41598-026-72697-3",
+      "doi": "10.1038/s41598-026-72697-3",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.12911/22998993/225956",
+      "title": "Assessment of selected properties of soils degraded by the mining industry: Case study of Lubelski Węgiel “Bogdanka” S.A.",
+      "authors": [
+        "Marta Bik-Małodzińśka",
+        "Kamila Rybczyńska‐Tkaczyk",
+        "Barbara Futa",
+        "G. Żukowska",
+        "Magdalena Myszura-Dymek",
+        "Alicja Strzałka",
+        "Daniel Strzałka"
+      ],
+      "published": "2026-09-27",
+      "topic": "Hidrogeología",
+      "venue": "Journal of Ecological Engineering",
+      "abstract_original": "The aim of the study was to evaluate selected physicochemical properties of the soils located near the mining area of the Lubelski Węgiel \"Bogdanka\" S.A. mine, with particular emphasis on soil pH (pH KCl and pH H2O ), total carbon (TOC) and inorganic carbon (IC) content, as well as salinity.Soil samples were collected from various land use types (arable land, meadows, forests, roadside areas, floodplains, and areas near a reservoir) and from two depths (0-20 cm and 20-40 cm).The results showed a wide variability in soil pH KCl , ranging from strongly acidic to neutral.Total carbon content ranged from 1.54 to 27.90 g kg⁻¹, with the highest val",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.12911/22998993/225956",
+      "doi": "10.12911/22998993/225956",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.33271/mining20.03.053",
+      "title": "Mineralogy of gold-telluride-sulfide ores of the Kokkiya deposit, Kazakhstan",
+      "authors": [
+        "Gulnara Omarova",
+        "Bulat Sukurov",
+        "Saltanat Assubayeva",
+        "А. Садуов",
+        "Symbat Tugambay",
+        "Yalkunzhan K. Arshamov"
+      ],
+      "published": "2026-09-26",
+      "topic": "Geología minera",
+      "venue": "Mining of Mineral Deposits",
+      "abstract_original": "Purpose. To establish the mineral-formforming sequence and clarify the features of gold-telluride-sulfide mineralization at the Kokkiya deposit based on the study of mineral assemblages, typomorphic characteristics of ore minerals, modes of occurrence of native gold and tellurides, and their spatial and paragenetic relationships. Methods. A total of 120 ore and host-rock samples collected from drill core were studied. The analytical methods included optical microscopy in reflected and transmitted light, scanning electron microscopy, electron-probe microanalysis, EDS/WDS analysis, and EDS mapping. Gold fineness and composition were additionall",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.33271/mining20.03.053",
+      "doi": "10.33271/mining20.03.053",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.oregeorev.2026.107571",
+      "title": "Mineral prospectivity mapping using adaptive non-negative positive-unlabeled learning and multi-source geoscientific data",
+      "authors": [
+        "王圆方",
+        "Shengfa Wang",
+        "Xiaoshan Zhou",
+        "X. Y. Wang",
+        "RAN XiangJin",
+        "Yao Pei"
+      ],
+      "published": "2026-09-26",
+      "topic": "Geología minera",
+      "venue": "Ore Geology Reviews",
+      "abstract_original": "The scarcity of labeled data and the lack of reliable negative samples significantly limit the applicability of fully supervised deep learning approaches in mineral prospectivity mapping (MPM). To address this issue, this study uses the Qixia gold ore-concentration area in Shandong Province as the study area and proposes an adaptive non-negative positive-unlabeled (PU) learning convolutional neural network (nnPU-CNN) model for metallogenic prediction that integrates multisource geoscientific information with geological prior knowledge. The model jointly incorporates 1:50,000 stream-sediment geochemical data, high-resolution magnetic survey da",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.oregeorev.2026.107571",
+      "doi": "10.1016/j.oregeorev.2026.107571",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.33271/mining20.03.010",
+      "title": "Machine learning-assisted hyperspectral targeting of orogenic and placer gold deposits at Wadi Umm Eish El-Zarqa, Egypt",
+      "authors": [
+        "Sobhi Mahmoud Ghoneim",
+        "Changcheng Wang",
+        "Hala F Ali",
+        "Ibrahim Inuwa Yahaya",
+        "Mohamed Faisal"
+      ],
+      "published": "2026-09-26",
+      "topic": "Geología minera",
+      "venue": "Mining of Mineral Deposits",
+      "abstract_original": "Purpose. This study develops a reproducible, precision-first framework for targeting gold mineralization in arid environments, addressing both bedrock and placer deposits at the Wadi Umm Eish El-Zarqa area in Egypt, the first such investigation in this region. Methods. The methodology combines machine learning applied to hyperspectral EnMAP data and spatial geomorphometric analysis of ALOS-PALSAR DEM. Random Forest and Support Vector Machine with Radial Basis Function models were trained on pixel spectra from three known gold mining sites. A spectral probability tolerance of 0.05 was implemented to expand the training dataset. Drainage networ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.33271/mining20.03.010",
+      "doi": "10.33271/mining20.03.010",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.gsd.2026.101689",
+      "title": "Information geometry and early-warning signals for groundwater drought: diagnosis, not prediction, and implications for sustainable aquifer monitoring",
+      "authors": [
+        "Francesco Granata"
+      ],
+      "published": "2026-09-26",
+      "topic": "Hidrogeología",
+      "venue": "Groundwater for Sustainable Development",
+      "abstract_original": "Groundwater sustains water supply, baseflow and ecosystems through dry periods, so anticipating groundwater drought would strengthen sustainable aquifer management; whether such advance warning is attainable from monitoring records, however, remains unresolved. This study tests, against explicit null models, whether three families of indicators can predict major droughts from groundwater levels alone, using 106 boreholes across Great Britain and complete hydrological years from 1953 to 2025. The indicators are information-geometric distances between successive annual level distributions, critical-slowing-down early-warning signals, and establ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.gsd.2026.101689",
+      "doi": "10.1016/j.gsd.2026.101689",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -37,6 +189,92 @@
       "application": "",
       "url": "https://doi.org/10.71317/jgst.2.9(s2).2026.696",
       "doi": "10.71317/jgst.2.9(s2).2026.696",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.11609/jott.10326.18.9.29743-29750",
+      "title": "Geo-ecological dynamics of Bhairabkunda Grasslands: flood origins, florican dependence, and conservation need",
+      "authors": [
+        "Jonmani Kalita",
+        "Karishma Sharma Chamlagain",
+        "Koushik Rajbongshi",
+        "Dhritiman Das"
+      ],
+      "published": "2026-09-26",
+      "topic": "Geomorfología",
+      "venue": "Journal of Threatened Taxa",
+      "abstract_original": "This study investigated the dynamics of land cover change in the Bhairabkunda region of Assam, with a focus on the emergence of grasslands resulting from flood-driven river course changes. The objective was to assess how flooding events and subsequent ecological succession influenced grassland formation and their role in supporting the ‘Critically Endangered’ Bengal Florican Houbaropsis bengalensis. Multi-temporal satellite imagery from Landsat 5, 7, 8, and 9 (1987–2024) with 30 m spatial resolution was analyzed using supervised classification in QGIS to quantify land cover transitions. Ground surveys were conducted in 2024 to validate floric",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.11609/jott.10326.18.9.29743-29750",
+      "doi": "10.11609/jott.10326.18.9.29743-29750",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1093/gji/ggag394",
+      "title": "Extensional Tectonics and Magma-Driven Seismicity Across the Santorini–Amorgos Basins, South-Central Aegean Sea: Insights from the 2025 Earthquake Swarm",
+      "authors": [
+        "Seda Yolsal‐Çevikbilen",
+        "Tahir Serkan Irmak",
+        "Ceyhun Erman",
+        "Tuna Eken",
+        "Anthony Lomax",
+        "Tuncay Taymaz"
+      ],
+      "published": "2026-09-26",
+      "topic": "Geofísica",
+      "venue": "Geophysical Journal International",
+      "abstract_original": "Summary We examined source characteristics of the recent earthquake sequence that occurred in February 2025 between the volcanic fields of Santorini, Kolumbo, Anydros, and Amorgos in south-central Aegean. This region lies within the volcanic back-arc domain of the Hellenic subduction zone in the Aegean Sea. During this period, the area experienced intense seismic activity (ten earthquakes 5.0 < Mw < 5.5), with earthquake magnitudes generally increasing towards Amorgos Island. The largest event was the Mw 5.4 earthquake on 10 February 2025, located northeast of Santorini. In this study, we first obtained 4,869 earthquakes that occurred between",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1093/gji/ggag394",
+      "doi": "10.1093/gji/ggag394",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.33271/mining20.03.030",
+      "title": "Development and substantiation of vertical shaft lining designs under complex mining-geological and hydrogeological conditions",
+      "authors": [
+        "Bakytbek Bektur",
+        "Д.Б. Аманжолов",
+        "Abylay Alip",
+        "Yeldar Abshayakov"
+      ],
+      "published": "2026-09-26",
+      "topic": "Geología minera",
+      "venue": "Mining of Mineral Deposits",
+      "abstract_original": "Purpose. Development and substantiation of an injection-grouting technology for stabilising an aquifer during vertical shaft sinking in a serpentinite rock mass containing alkaline, magnesium-bearing groundwater that limits the effectiveness of conventional cement grouting. Methods. The study included an analysis of the geochemical conditions of water-bearing sublayer IV-4 at the 10th Anniversary of Kazakhstan’s Independence Mine and determination of the geochemical aggressiveness factor Kgc; laboratory testing of two two-component polyacrylate grouts on consolidated serpentinite specimens with a particle size of 0.5-3.0 mm in a water-saturat",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.33271/mining20.03.030",
+      "doi": "10.33271/mining20.03.030",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.33271/mining20.03.168",
+      "title": "DCIP tomography for delineation of Zn-Pb sulfide mineralization and estimation of mineral resources",
+      "authors": [
+        "Mosaad Ali Hussein Ali",
+        "M. A. Yousef",
+        "Safwat A. Mahmoud",
+        "Ahmed S Mohamed"
+      ],
+      "published": "2026-09-26",
+      "topic": "Geofísica",
+      "venue": "Mining of Mineral Deposits",
+      "abstract_original": "Purpose. This study aims to evaluate the effectiveness of direct current resistivity and induced polarization (DCIP) tomography in delineating Zn–Pb sulfide mineralization and estimating mineral resources at the Nash Creek deposit in Canada. The investigation seeks to identify mineralized zones, characterize their geoelectrical properties, and assess their economic potential. Methods. A quasi-3D DCIP survey was conducted over an area of approximately 21.5 km2, using 17 parallel survey lines spaced 200 m apart. The acquired data were processed and interpreted using two-dimensional and three-dimensional inversion techniques. The resulting resis",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.33271/mining20.03.168",
+      "doi": "10.33271/mining20.03.168",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -68,7 +306,7 @@
       "title": "Quantifying spatiotemporal land subsidence rates and deformation hotspots using integrated GNSS and InSAR in Nakuru County, Kenya",
       "authors": [
         "Turyamureeba Esau",
-        "Arthur Sichangi",
+        "Arthur W. Sichangi",
         "Moses Karoki Gachari"
       ],
       "published": "2026-09-25",
@@ -229,6 +467,24 @@
       "application": "",
       "url": "https://doi.org/10.1002/jqs.70117",
       "doi": "10.1002/jqs.70117",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s12231-026-09693-1",
+      "title": "Early Cultivation of Cacao (Theobroma [Malvaceae]) in Ancient Arenal, Costa Rica",
+      "authors": [
+        "Venicia Slotten"
+      ],
+      "published": "2026-09-25",
+      "topic": "Geomorfología",
+      "venue": "Ethnobotany and Economic Botany",
+      "abstract_original": "Abstract Ethnohistoric sources document cacao ( Theobroma cacao ) as one of the most valued plant commodities produced in the Isthmo-Colombian Region following the Spanish Conquest, but there has been minimal archaeological evidence for the plant in this region in Prehispanic times despite its historical legacy of cacao production. Recent excavations in the Arenal region of Northwestern Costa Rica have recovered numerous fragments of wood charcoal identified to the Theobroma genus within residential contexts ranging from the Tronadora (2,000–500 BCE ) to the Arenal (500 BCE –600 CE ) cultural periods. Numerous taxa documented ethnohistoricall",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1007/s12231-026-09693-1",
+      "doi": "10.1007/s12231-026-09693-1",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -1964,7 +2220,7 @@
       "authors": [
         "Rafael Rigaud",
         "M.J. Comeau",
-        "Batmagnai Erdenechimeg",
+        "Erdenechimeg Batmagnai",
         "Mikhail Kruglyakov",
         "Alexey V. KUVSHINOV",
         "Michael Becken",
