@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "posts": [
     {
       "id": "doi:10.5281/zenodo.7368979",
@@ -16,6 +16,56 @@
       "application": "",
       "url": "https://doi.org/10.5281/zenodo.7368979",
       "doi": "10.5281/zenodo.7368979",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1093/femsec/fiag107",
+      "title": "Holobiomes in succession: post-glacial microbial communities are structured by hosts, time and habitat heterogeneity",
+      "authors": [
+        "Adam Taylor Ruka",
+        "Vojtěch Lanta",
+        "Samresh Rai",
+        "Kateřina Čapková",
+        "Thinles Chondol",
+        "Inga Hiiesalu",
+        "John Davison",
+        "Lucie Vančurová",
+        "Jan Kučera",
+        "Jiří Doležal",
+        "Roey Angel",
+        "Klára Řeháková"
+      ],
+      "published": "2026-09-28",
+      "topic": "Geomorfología",
+      "venue": "FEMS Microbiology Ecology",
+      "abstract_original": "Abstract Glacier forefields provide model ecosystems for studying primary succession, where newly exposed substrates are colonized by microbes associated with lichens, biological soil crusts (BSCs), mosses, vascular plants, and bulk soil. Collectively, these sources form an interconnected microbial holobiome, yet their roles in structuring bacterial and fungal metacommunities remain poorly understood. We investigated how source identity, moraine age, and topography shape microbial assembly across four glacier forefields in the high-altitude desert of Ladakh, India (northwestern Himalaya). Using a chronosequence approach integrating vegetation",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1093/femsec/fiag107",
+      "doi": "10.1093/femsec/fiag107",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.25587/2587-8751-2026-1-5-33",
+      "title": "Typomorphism of rock-forming minerals of andesites from the Karaburan Complex of the Polovinkinskaya Depression (Aldan-Stanovoy shield)",
+      "authors": [
+        "A. I. Ivanov",
+        "Michil Ivanov",
+        "Anatolii Zhuravlev",
+        "E. E. Loskutov"
+      ],
+      "published": "2026-09-27",
+      "topic": "Volcanología",
+      "venue": "Vestnik of North-Eastern Federal University Series Earth Sciences",
+      "abstract_original": "This study presents an inaugural analysis of rock-forming mineral chemistry within andesites from the Polovinkinskaya Depression, situated at the junction of the Tynda and Nimnyr terranes in the central Aldan- Stanovoy Shield. Utilizing microprobe data processed through MagMin PT, WinPyrox, and COMAGMAT, we evaluated the systematics, thermodynamic crystallization conditions, and potential metallogenic significance of these rocks. The mineral assemblage includes plagioclase (oligoclase and two generations of andesine), groundmass andesine microlites, pyroxenes (augite and diopside), Ca-amphiboles (edenite and pargasite), and Mg-biotite. Our fi",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.25587/2587-8751-2026-1-5-33",
+      "doi": "10.25587/2587-8751-2026-1-5-33",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -42,6 +92,25 @@
       "source": "OpenAlex"
     },
     {
+      "id": "doi:10.36948/ijfmr.2026.v08i05.88582",
+      "title": "Solar Parks: Threat to Biodiversity and Ecosystem in the Thar Desert of Western Rajasthan, India",
+      "authors": [
+        "Rup Suthar",
+        "P. Enkeshwar"
+      ],
+      "published": "2026-09-27",
+      "topic": "Geomorfología",
+      "venue": "International Journal For Multidisciplinary Research",
+      "abstract_original": "Abstract India's push to install 500 GW of renewable energy by 2030 has made the Thar Desert of western Rajasthan a major hub for utility-scale solar development. The 2,245 MW Bhadla Solar Park, which covers more than 5,700 hectares, is the most prominent example. Much of this land has been allocated cheaply because state revenue records describe it as unproductive wasteland (banjar), a label that masks its ecological and cultural value. This paper presents findings from field surveys conducted between 2021 and 2024 across Jodhpur, Phalodi, and Jaisalmer districts, combining botanical assessments, key-informant interviews, and focus group dis",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.36948/ijfmr.2026.v08i05.88582",
+      "doi": "10.36948/ijfmr.2026.v08i05.88582",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
       "id": "doi:10.1038/s41598-026-72697-3",
       "title": "Mineralogical and geochemical constraints on high-sulfidation epithermal alteration in the Zamharir kaolin deposit, northwestern Iran",
       "authors": [
@@ -58,6 +127,35 @@
       "application": "",
       "url": "https://doi.org/10.1038/s41598-026-72697-3",
       "doi": "10.1038/s41598-026-72697-3",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.22201/igeof.2954436xe.2026.65.4.1915",
+      "title": "Michoacán Seismic and Tremor (MIST) Network: Perspectives, preliminary results and future directions to understand the role of the Cocos plate and the monogenetic volcanism",
+      "authors": [
+        "Luis Antonio Dominguez",
+        "Marcela Baena‐Rivera",
+        "Mathieu Perton",
+        "V. Kostoglodov",
+        "Victor Manuel Cruz-Atienza",
+        "José Luis Macías",
+        "Raymundo Plata‐Martínez",
+        "Manuel J. Aguilar-Velázquez",
+        "A. Iglesias",
+        "Carlos Villafuerte",
+        "Jorge Real",
+        "Miguel A. Santoyo"
+      ],
+      "published": "2026-09-27",
+      "topic": "Geofísica",
+      "venue": "Geofísica Internacional",
+      "abstract_original": "The Michoacan Seismic and Tremor (MIST) network is a follow-up project of the Middle America Subduction Experiment (MASE) and the Veracruz-Oaxaca Network (VEOX). These former experiments consisted of linear arrays perpendicular to the trench that generated large waveform datasets to characterize the subduction of the Cocos plate better. While the MASE array focused mainly on the flat segment of the subduction zone in the state of Guerrero, Mexico the VEOX array examined the changes in geometry towards a steep subduction in the Tehuantepec Isthmus. The MIST network is being deployed in Michoacan state in western Mexico in an area where volcani",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.22201/igeof.2954436xe.2026.65.4.1915",
+      "doi": "10.22201/igeof.2954436xe.2026.65.4.1915",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -262,7 +360,7 @@
       "title": "DCIP tomography for delineation of Zn-Pb sulfide mineralization and estimation of mineral resources",
       "authors": [
         "Mosaad Ali Hussein Ali",
-        "M. A. Yousef",
+        "Mohamed A Yousef",
         "Safwat A. Mahmoud",
         "Ahmed S Mohamed"
       ],
