@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "posts": [
     {
       "id": "doi:10.5281/zenodo.7368979",
@@ -16,6 +16,221 @@
       "application": "",
       "url": "https://doi.org/10.5281/zenodo.7368979",
       "doi": "10.5281/zenodo.7368979",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.24114/jg.v18i2.76503",
+      "title": "Tidal Circulation Modeling in Prigi Bay, Indonesia: Hydrodynamic Patterns and Implications for Fisheries-Port Management",
+      "authors": [
+        "Rainey Windayati",
+        "Aida Sartimbul"
+      ],
+      "published": "2026-09-29",
+      "topic": "Geomorfología",
+      "venue": "JURNAL GEOGRAFI",
+      "abstract_original": "Prigi Bay is a semi-enclosed coastal system where tidal hydrodynamics govern circulation patterns and constitute the dominant hydrodynamic forcing within the bay. The purpose of this study is to model tidal circulation characteristics and evaluate their implications for fisheries-port management in Prigi Bay, Trenggalek Regency, East Java, Indonesia. Tidal currents were simulated using the Advanced Circulation (ADCIRC) model and supported by in situ current measurements conducted through purposive sampling and Eulerian observations using current meters, while tidal characteristics were derived using harmonic analysis based on the Admiralty me",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.24114/jg.v18i2.76503",
+      "doi": "10.24114/jg.v18i2.76503",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3389/fenvs.2026.1949870",
+      "title": "Mapping land-use/land-cover change and associated predictors in Cambodia from 2000 to 2020: Landsat-based SVM mapping and random forest analysis",
+      "authors": [
+        "Peng Gao",
+        "Dongxu Dai",
+        "Yubin Zhao",
+        "Xinyu Hui",
+        "Jiajia Wang",
+        "Zhongcheng Ma",
+        "Yantang Chen",
+        "Dongxu Zhang"
+      ],
+      "published": "2026-09-29",
+      "topic": "Geomorfología",
+      "venue": "Frontiers in Environmental Science",
+      "abstract_original": "Introduction Land-use/land-cover (LULC) change in Cambodia is relevant to forest conservation and land management in the Lower Mekong region. Methods This study describes mapped change between three national LULC snapshots (2000, 2010, and 2020) using Landsat TM/ETM+/OLI imagery, supervised support vector machine (SVM) classification, post-classification transition matrices, and random forest (RF) predictor-importance analysis. Results Mapped cropland increased from 57,972.40 km 2 in 2000 to 71,281.39 km 2 in 2020, whereas woodland/forest declined from 103,756.88 to 89,428.94 km 2 . Woodland/forest to cropland was the largest mapped 2000-2020",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.3389/fenvs.2026.1949870",
+      "doi": "10.3389/fenvs.2026.1949870",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.30574/wjarr.2026.31.3.2454",
+      "title": "INTEGRATED REMOTE SENSING AND ELECTRICAL GEOPHYSICS FOR GROUNDWATER EXPLORATION IN CRYSTALLINE BASEMENT AQUIFERS OF BURKINA FASO (WEST AFRICAN SAHEL)",
+      "authors": [
+        "Moussa Diagne Faye",
+        "Ousmane Roland YONABA",
+        "Olivier COULIBALY",
+        "Harinaivo Anderson Andrianisa"
+      ],
+      "published": "2026-09-29",
+      "topic": "Hidrogeología",
+      "venue": "World Journal of Advanced Research and Reviews",
+      "abstract_original": "Rural communities in Burkina Faso depend almost exclusively on groundwater due to the scarcity and poor quality of surface waters, often affected by diffuse pollution. This resource remains highly vulnerable to the combined effects of climate variability, socioeconomic development, and increasing anthropogenic pressures. Groundwater exploitation in basement terrains is complicated by strong geological heterogeneity, with a drilling failure rate of about 20% based on a dataset of 368 boreholes. The national access rate, targeted at 80% in 2025, declined to 71.9% in 2015 and only slightly improved to 76.4% in 2020. This study combines remote se",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.30574/wjarr.2026.31.3.2454",
+      "doi": "10.30574/wjarr.2026.31.3.2454",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.56238/arev8n9-160",
+      "title": "USO DA GEOFÍSICA NA PROSPECÇÃO DE ÁGUAS SUBTERRÂNEAS NO IFES CAMPUS CENTRO-SERRANO, ESPÍRITO SANTO",
+      "authors": [
+        "Matheus Lopes Calegari",
+        "Ediu Carlos Lopes Lemos",
+        "Igor Carvalho do Nascimento"
+      ],
+      "published": "2026-09-28",
+      "topic": "Hidrogeología",
+      "venue": "Aracê.",
+      "abstract_original": "A prospecção de água subterrânea em terrenos cristalinos apresenta elevada incerteza, pois o armazenamento e a circulação hídrica dependem principalmente da ocorrência e da conectividade de fraturas e zonas de alteração. Este estudo avaliou o emprego de métodos geoelétricos como ferramenta de apoio à seleção de locais para perfuração de poços no Instituto Federal do Espírito Santo (Ifes), Campus Centro-Serrano, em Santa Maria de Jetibá-ES. Foram executados dois caminhamentos elétricos com arranjo dipolo-dipolo, espaçamento de 10 m entre eletrodos, 150 m de extensão por perfil e 13 níveis de investigação, alcançando aproximadamente 40 m de pro",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.56238/arev8n9-160",
+      "doi": "10.56238/arev8n9-160",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1038/s41598-026-70438-0",
+      "title": "Spontaneous combustion of metal sulfide minerals and implications for seafloor massive sulfide mining",
+      "authors": [
+        "Amy Gartman",
+        "Jaycee Favela",
+        "Katlin Adamczyk",
+        "Aude Picard",
+        "John Jamieson",
+        "Robert Zierenberg",
+        "Isobel Yeo",
+        "Karen Bustillo",
+        "I. Maru Shapiro",
+        "Kha Phan",
+        "Hope Ianiri"
+      ],
+      "published": "2026-09-28",
+      "topic": "Geología minera",
+      "venue": "Scientific Reports",
+      "abstract_original": "Abstract Metal sulfide minerals are abundant phases in many environments on earth, including seafloor massive sulfide (SMS) deposits, which occur at hydrothermal vents throughout the global ocean. These deep-sea settings are currently undergoing exploration for potential future mining. Here, we describe rocks from Escanaba Trough on the southern Gorda Ridge that underwent spontaneous combustion during laboratory processing. We compared the mineralogy, composition, and thermogravimetric behavior of the combusting samples to rocks from the same location that did not combust. We then used thermodynamic analyses to evaluate the exothermic nature ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1038/s41598-026-70438-0",
+      "doi": "10.1038/s41598-026-70438-0",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.3389/feart.2026.1915354",
+      "title": "Spatiotemporal evolution of land subsidence in coastal reclamation areas: coupling anthropogenic land-use intensity and delayed soft-soil compression",
+      "authors": [
+        "Tuanzhi Zhao",
+        "Xianzhe Dong",
+        "Xinfeng Hu",
+        "Zhanbo Wang",
+        "Xunli Zhang",
+        "Lingwei Zheng",
+        "Wenjun Wang"
+      ],
+      "published": "2026-09-28",
+      "topic": "Hidrogeología",
+      "venue": "Frontiers in Earth Science",
+      "abstract_original": "This study assesses long-term land subsidence in the Meishan Bonded Port Area, Ningbo, China, by integrating a borehole-constrained three-dimensional geomechanical model, multi-level settlement monitoring, a processed regional PS-InSAR-derived subsidence-rate map for 2022, and land-use intensity (LUI). Delayed soft-soil compression is represented through fixed, site-conditioned equivalent parameter corrections that do not simulate constitutive creep evolution. Spatial LUI is translated into temporally varying equivalent surface-load boundaries. A depth-specific descriptive evaluation at HMG06 and a regional spatial-consistency assessment agai",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.3389/feart.2026.1915354",
+      "doi": "10.3389/feart.2026.1915354",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.34218/ijciet_17_05_002",
+      "title": "SUSTAINABLE MANAGEMENT AND OPTIMIZATION OF WATER-RESOURCE USE IN THE KARST AREAS OF HERZEGOVINA",
+      "authors": [
+        "Željko Rozić"
+      ],
+      "published": "2026-09-28",
+      "topic": "Hidrogeología",
+      "venue": "INTERNATIONAL JOURNAL OF CIVIL ENGINEERING AND TECHNOLOGY (IJCIET)",
+      "abstract_original": "The problem of water resource scarcity and water supply in karst areas is significant and still insufficiently researched.Management of water resources is particularly demanding due to the high spatial and temporal variability of available water.The area of Herzegovina belongs to the Dinaric karst, one of the most developed karst regions in Europe.This paper analyzes the problem of sustainable water resource management in karst areas under climate change conditions, with particular reference to the Herzegovina region, for example the Municipality of Posušje and the Tribistovo Reservoir.The specific hydrogeological characteristics of karst, th",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.34218/ijciet_17_05_002",
+      "doi": "10.34218/ijciet_17_05_002",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.56201/ijgem.vol.11.no9.2025.pg48.69",
+      "title": "Petrographic and Geochemical Characterization of Alabata Pegmatites, Sheet 260 SE Abeokuta, Nigeria: Petrogenetic Insights and Framework for Sustainable Rare-Metal Exploitation",
+      "authors": [
+        "Chima Kingslay Enwerem"
+      ],
+      "published": "2026-09-28",
+      "topic": "Geología minera",
+      "venue": "IIARD INTERNATIONAL JOURNAL OF GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+      "abstract_original": "We present an integrated petrographic and geochemical study of eleven pegmatite bodies from the Alabata area (Sheet 260 SE Abeokuta, Nigeria) to unravel their petrogenesis and assess their potential as critical-raw-material resources. Discrimination diagrams—K₂O–TiO₂–P₂O₅ (pearce et al., 1975, —K₂O–TiO₂–P₂O₅ (Tarney, 1997), and K₂O/Al₂O₃–Na₂O/Al₂O₃ (garrels & Mackenzie, 1971) — demonstrated that Alabata pegmatites occupy a transitional field between metasedimentary and igneous granitoids. AFM plots (Irvine & Baragar, 1971) and WPG classification (Pearce et al, 1984) place them in an “extensional within-plate setting”, whereas trace-element sp",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.56201/ijgem.vol.11.no9.2025.pg48.69",
+      "doi": "10.56201/ijgem.vol.11.no9.2025.pg48.69",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s44312-026-00088-3",
+      "title": "Mapping disappearance: spatial analysis of vulnerable coastal destinations",
+      "authors": [
+        "Komali Kantamaneni",
+        "Ruchiru Dilshan Herath",
+        "Robert Walsh",
+        "Swarnalatha Purushotham",
+        "Sreenivasulu Vemu",
+        "Luiza C. Campos",
+        "Upaka Rathnayake"
+      ],
+      "published": "2026-09-28",
+      "topic": "Geomorfología",
+      "venue": "Marine Development",
+      "abstract_original": "Abstract Many coastal regions around the world face increasing risks from both natural and anthropogenic drivers, including climate change, rising sea levels, and rapid, unauthorized urbanization. This study presents an integrated geospatial approach to evaluate the coastal vulnerability of Visakhapatnam and Uppada Village, both located in coastal Andhra Pradesh, India. These areas are exposed to multiple natural hazards and disasters but lack comprehensive multi-temporal analysis. This research uniquely integrates remote sensing and GIS with a multi-parameter coastal vulnerability assessment and extensive field validation, representing a com",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1007/s44312-026-00088-3",
+      "doi": "10.1007/s44312-026-00088-3",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.64599/urel4418",
+      "title": "Hydrogeological and Hydroecological Assessment of Springs in Azerbaijan: Spatial Variability, Water Quality, and Sustainable Management",
+      "authors": [
+        "Rashail İsmayilov"
+      ],
+      "published": "2026-09-28",
+      "topic": "Hidrogeología",
+      "venue": "International Journal of Sustainability and Risk Control",
+      "abstract_original": "This study explores the hydrogeological characteristics of springs in Azerbaijan, focusing on their distribution, water quality, and potential for sustainable use. The country's diverse geological formations, including the Greater Caucasus, Lesser Caucasus, Talish mountain-fold zones, and the Kura-Araz Lowland, significantly influence the quantity and quality of groundwater. Groundwater in Azerbaijan is primarily found in fractureporous and fracture-vein aquifers, with spring flow patterns following radial distribution from the center of the mountainous zones to their peripheries. Hydrogeological factors such as lithology, tectonic structures",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.64599/urel4418",
+      "doi": "10.64599/urel4418",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -45,6 +260,65 @@
       "application": "",
       "url": "https://doi.org/10.1093/femsec/fiag107",
       "doi": "10.1093/femsec/fiag107",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.36547/ams.32.3.2318",
+      "title": "Gold recovery from primary and secondary raw materials: leaching, matrix effects and selective separation",
+      "authors": [
+        "Ainur Berkinbayeva",
+        "Bagdaulet Kenzhaliyev",
+        "Kenzhegali Smailov",
+        "Diana Karim"
+      ],
+      "published": "2026-09-28",
+      "topic": "Geología minera",
+      "venue": "Acta Metallurgica Slovaca",
+      "abstract_original": "Gold ore grades are declining, refractory mineralization is increasing, and electronic scrap and copper anode slime have reached industrial volumes. For such feeds the rate-limiting stage is selective separation from a chemically loaded matrix, whereas dissolution chemistry is established. This review compares cyanide, thiosulfate, thiourea, thiocyanate, halide, glycine and enhanced-oxidation systems by transferability between primary and secondary feeds. Cyanidation remains the benchmark, but its margin narrows once copper consumption, encapsulation and detoxification costs are counted. Each alternative lifts one restriction and imposes othe",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.36547/ams.32.3.2318",
+      "doi": "10.36547/ams.32.3.2318",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1038/s41598-026-73803-1",
+      "title": "Development of an efficient and practical algorithm for time-to-depth conversion in reflected profile",
+      "authors": [
+        "Mingjie Wang",
+        "Ding Weifeng",
+        "银霞 方"
+      ],
+      "published": "2026-09-28",
+      "topic": "Geofísica",
+      "venue": "Scientific Reports",
+      "abstract_original": "Abstract Time-depth conversion is a critical stage in the geological interpretation of reflection seismic data, as its precision determines the accuracy of structural interpretation at reflective interfaces and geological profile products. The fidelity primarily depends on accurate stratigraphic velocity definition and the conversion method. Conventional velocity modeling for oilfield data heavily relies on logging data, while single-average velocity conversion lacks accuracy in complex lithological formations. Existing technologies struggle to balance between “modeling cost” and “conversion accuracy”. To address this challenge, this paper pr",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1038/s41598-026-73803-1",
+      "doi": "10.1038/s41598-026-73803-1",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.56201/rjpst.vol.8.no11.2025.pg1.11",
+      "title": "Beneficiation of Wase Plateau State Rutile for Hydrogen Production",
+      "authors": [
+        "Enejoh Timothy Omejeh"
+      ],
+      "published": "2026-09-28",
+      "topic": "Geología minera",
+      "venue": "RESEARCH JOURNAL OF PURE SCIENCE AND TECHNOLOGY",
+      "abstract_original": "This investigation evaluates the refinement of Jos, Nigeria, rutile/ilmenite ores via sequential water and hydrochloric acid leaching. Elemental compositional data of the unprocessed feedstock indicate a considerable titanium oxide fraction (44.67%), coexisting with a notable iron burden (22.37%). Leaching experiments with deionized water yielded marginal beneficiation, elevating the titanium content to 46.77% and concurrently depressing iron to 19.71%. Conversely, exposure to hydrochloric acid provoked pronounced upgrading, promoting titanium to 84.36% and curtailing iron to 4.71%. Morphological examination by scanning electron microscopy re",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.56201/rjpst.vol.8.no11.2025.pg1.11",
+      "doi": "10.56201/rjpst.vol.8.no11.2025.pg1.11",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -1633,6 +1907,26 @@
       "application": "",
       "url": "https://doi.org/10.1016/j.acags.2026.100406",
       "doi": "10.1016/j.acags.2026.100406",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.geomorph.2026.110549",
+      "title": "Geomorphic evidence of a potentially active fault in the northeastern Canadian Cordillera",
+      "authors": [
+        "Joel Padgett",
+        "Eva Enkelmann",
+        "Lindsay M. Schoenbohm"
+      ],
+      "published": "2026-09-19",
+      "topic": "Tectónica activa",
+      "venue": "Geomorphology",
+      "abstract_original": "Although located ~800 km east of the active plate boundary, historical seismicity and geodetic data indicate active deformation in the northeastern Canadian Cordillera. However, no specific faults that accommodate this deformation have been identified. Identifying potentially active faults is essential for understanding deformation mechanisms, the role preexisting structures play in partitioning deformation, the driving mechanisms of intraplate orogenesis, and for quantifying regional seismic hazards. To find potentially active faults, we use a geomorphic areal analysis approach integrating hypsometric hotspots and cold spots, knickpoint clus",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.geomorph.2026.110549",
+      "doi": "10.1016/j.geomorph.2026.110549",
       "status": "automatic",
       "source": "OpenAlex"
     },
