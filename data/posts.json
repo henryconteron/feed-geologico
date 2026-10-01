@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "posts": [
     {
       "id": "doi:10.5281/zenodo.7368979",
@@ -561,6 +561,26 @@
       "application": "",
       "url": "https://doi.org/10.71317/jgst.2.9(s2).2026.696",
       "doi": "10.71317/jgst.2.9(s2).2026.696",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.jhydrol.2026.136499",
+      "title": "Hybrid physics–AI modeling in hydrogeology: a review of concepts, applications, and challenges",
+      "authors": [
+        "Daniele Secci",
+        "Valeria Todaro",
+        "J. Jaime Gómez‐Hernández"
+      ],
+      "published": "2026-09-26",
+      "topic": "Geofísica",
+      "venue": "Journal of Hydrology",
+      "abstract_original": "Artificial intelligence is reshaping hydrogeological modeling. The question is whether hybrid physics–AI approaches can reconcile the explanatory power of process-based models with the flexibility and speed of machine learning. We try to answer this question with a concept-driven review which traces the progression from purely data-driven approaches to emerging modeling paradigms incorporating physical knowledge. We show that hydrogeological modeling is moving beyond a simple opposition between mechanistic simulators and black-box algorithms toward a continuum of physics–AI integration, including theory-guided machine learning, physics-inform",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.jhydrol.2026.136499",
+      "doi": "10.1016/j.jhydrol.2026.136499",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -1559,30 +1579,6 @@
       "application": "",
       "url": "https://doi.org/10.56201/ijgem.vol.12.no8.2026.pg112.129",
       "doi": "10.56201/ijgem.vol.12.no8.2026.pg112.129",
-      "status": "automatic",
-      "source": "OpenAlex"
-    },
-    {
-      "id": "doi:10.1093/gji/ggag378",
-      "title": "Earthquake recurrence and seismic cycle variability in the central apennines from simulated earthquake catalogs",
-      "authors": [
-        "Khatereh Saghatforoush",
-        "Bruno Pace",
-        "Alessandro Verdecchia",
-        "Octavi Gómez-Novell",
-        "Olaf Zielke",
-        "Francesco Visini",
-        "Laura Peruzza"
-      ],
-      "published": "2026-09-22",
-      "topic": "Tectónica activa",
-      "venue": "Geophysical Journal International",
-      "abstract_original": "Summary The Central Apennines (Italy) host a distributed network of active normal faults capable of generating infrequent but destructive earthquakes with recurrence intervals that often exceed the duration of available historical and paleoseismological records. This observational limitation hampers our understanding of long-term fault behavior, seismic cycle variability, and multi-fault rupture potential. In this study, we apply the MCQsim earthquake-cycle simulator to a three-dimensional fault model comprising 42 major active normal faults in the Central Apennines, generating seven 100 000-year synthetic earthquake catalogs by systematicall",
-      "abstract_language": "source",
-      "explanation_es": "",
-      "application": "",
-      "url": "https://doi.org/10.1093/gji/ggag378",
-      "doi": "10.1093/gji/ggag378",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -2816,6 +2812,30 @@
       "application": "",
       "url": "https://doi.org/10.1016/j.geomorph.2026.110536",
       "doi": "10.1016/j.geomorph.2026.110536",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1093/gji/ggag378",
+      "title": "Earthquake recurrence and seismic cycle variability in the Central Apennines from simulated earthquake catalogues",
+      "authors": [
+        "Khatereh Saghatforoush",
+        "Bruno Pace",
+        "Alessandro Verdecchia",
+        "Octavi Gómez-Novell",
+        "Olaf Zielke",
+        "Francesco Visini",
+        "Laura Peruzza"
+      ],
+      "published": "2026-09-11",
+      "topic": "Tectónica activa",
+      "venue": "Geophysical Journal International",
+      "abstract_original": "SUMMARY The Central Apennines (Italy) host a distributed network of active normal faults capable of generating infrequent but destructive earthquakes with recurrence intervals that often exceed the duration of available historical and paleoseismological records. This observational limitation hampers our understanding of long-term fault behaviour, seismic cycle variability and multifault rupture potential. In this study, we apply the MCQsim earthquake-cycle simulator to a 3-D fault model comprising 42 major active normal faults in the Central Apennines, generating seven 100 000-yr synthetic earthquake catalogues by systematically varying ruptu",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1093/gji/ggag378",
+      "doi": "10.1093/gji/ggag378",
       "status": "automatic",
       "source": "OpenAlex"
     },
