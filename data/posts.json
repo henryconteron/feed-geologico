@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "posts": [
     {
       "id": "doi:10.5281/zenodo.7368979",
@@ -20,6 +20,27 @@
       "source": "OpenAlex"
     },
     {
+      "id": "doi:10.61440/oajps.2026.v3.51",
+      "title": "Morphometric And Drainage Characteristics of Selected Sub-Basins in The Lower Benue Basin, Nigeria",
+      "authors": [
+        "Solomon Terlumun Kwaghkule",
+        "Patricia I. Ali",
+        "Monday Akpegi Onah",
+        "Johnson Orfega Mage"
+      ],
+      "published": "2026-09-30",
+      "topic": "Geomorfología",
+      "venue": "Fuente académica",
+      "abstract_original": "This study analysed the morphometric and drainage characteristics of six selected sub-basins of the Lower Benue Basin, Nigeria, namely Katsina-Ala, Mada, Farin Ruwa, Dep, Mu and Shemankar, to assess their drainage organisation, geomorphic development and implications for runoff response and flood management. Digital Elevation Model (DEM) data were processed using Geographic Information System (GIS) techniques to delineate drainage networks and derive linear, areal, relief and hypsometric parameters. Results revealed substantial spatial variation in drainage characteristics. Katsina-Ala was the largest sub-basin (12,139 km²), with 14,861 strea",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.61440/oajps.2026.v3.51",
+      "doi": "10.61440/oajps.2026.v3.51",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
       "id": "doi:10.24114/jg.v18i2.76503",
       "title": "Tidal Circulation Modeling in Prigi Bay, Indonesia: Hydrodynamic Patterns and Implications for Fisheries-Port Management",
       "authors": [
@@ -35,6 +56,25 @@
       "application": "",
       "url": "https://doi.org/10.24114/jg.v18i2.76503",
       "doi": "10.24114/jg.v18i2.76503",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1186/s40623-026-02531-7",
+      "title": "Statistical confidence interval inference for subsurface electrical resistivity structure from magnetotelluric impedances and geomagnetic transfer functions, assisted by forward modeling",
+      "authors": [
+        "Masahiro Ichiki",
+        "Weerachai Siripunvaraporn"
+      ],
+      "published": "2026-09-29",
+      "topic": "Geofísica",
+      "venue": "Earth Planets and Space",
+      "abstract_original": "This paper proposes a scheme for the statistical confidence interval inference of a subsurface electrical resistivity model in magnetotellurics and geomagnetic depth soundings. The method assesses the confidence interval of resistivity for a target block in optimal model obtained through inversion. The target block consists of a number of model elements and is confined by an operator. By varying the target block’s resistivity and performing forward modeling, the scheme evaluated the change in data misfit of magnetotelluric impedances and geomagnetic transfer functions, then applies the paired t -test rather than the F -test to estimate the co",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1186/s40623-026-02531-7",
+      "doi": "10.1186/s40623-026-02531-7",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -617,7 +657,7 @@
         "Tuncay Taymaz"
       ],
       "published": "2026-09-26",
-      "topic": "Geofísica",
+      "topic": "Volcanología",
       "venue": "Geophysical Journal International",
       "abstract_original": "Summary We examined source characteristics of the recent earthquake sequence that occurred in February 2025 between the volcanic fields of Santorini, Kolumbo, Anydros, and Amorgos in south-central Aegean. This region lies within the volcanic back-arc domain of the Hellenic subduction zone in the Aegean Sea. During this period, the area experienced intense seismic activity (ten earthquakes 5.0 < Mw < 5.5), with earthquake magnitudes generally increasing towards Amorgos Island. The largest event was the Mw 5.4 earthquake on 10 February 2025, located northeast of Santorini. In this study, we first obtained 4,869 earthquakes that occurred between",
       "abstract_language": "source",
