@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "posts": [
     {
       "id": "doi:10.5281/zenodo.7368979",
@@ -16,6 +16,28 @@
       "application": "",
       "url": "https://doi.org/10.5281/zenodo.7368979",
       "doi": "10.5281/zenodo.7368979",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1007/s10040-026-03181-5",
+      "title": "Integrating geophysical and underwater robotic surveys with transport and geochemical modeling to assess the Solotvyno salt mine hazard in the Transcarpathia province of Ukraine",
+      "authors": [
+        "Viktória Mikita",
+        "Norbert Péter Szabó",
+        "Endre Nádasi",
+        "Mohamed Hamdy Eid",
+        "Péter Szűcs"
+      ],
+      "published": "2026-10-02",
+      "topic": "Hidrogeología",
+      "venue": "Hydrogeology Journal",
+      "abstract_original": "Abstract The Solotvyno salt mine in West Ukraine presents significant environmental and infrastructural risks due to uncontrolled salt dissolution following mine flooding, causing ground subsidence, sinkhole formation, and transboundary contamination of the Tisza River. This study employs an innovative multidisciplinary approach to characterize subsurface conditions and contamination pathways. The UX-1Neo autonomous underwater robotic platform conducted 14 dives in two flooded mine shafts, revealing intact main shaft structures but worrying blockages in horizontal passages, distinct haloclines at different depths (60 m in ventilation shaft 9,",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1007/s10040-026-03181-5",
+      "doi": "10.1007/s10040-026-03181-5",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -42,6 +64,30 @@
       "application": "",
       "url": "https://doi.org/10.1038/s41598-026-72827-x",
       "doi": "10.1038/s41598-026-72827-x",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1029/2026gl121686",
+      "title": "Volatile Conduits Beneath Vulcano Island (Italy) Revealed by High‐Resolution Nodal Local Earthquake Tomography During Volcanic Unrest",
+      "authors": [
+        "Iván Cabrera",
+        "Douglas Sami Stumpp",
+        "Sofía Castro",
+        "Michaïl Henry",
+        "Tullio Ricci",
+        "Alessandra Sciarra",
+        "Matteo Lupi"
+      ],
+      "published": "2026-10-01",
+      "topic": "Geofísica",
+      "venue": "Geophysical Research Letters",
+      "abstract_original": "Abstract Understanding shallow magmatic and hydrothermal systems at active volcanoes is essential for interpreting unrest and forecasting eruptions. We present the first high‐resolution three‐dimensional , , and models of Vulcano Island, Aeolian Islands, Italy, derived from a dense nodal seismic network. During 1 month of acquisition in 2021, coinciding with volcanic unrest, we detected and picked 1749 local earthquakes. Tomographic results reveal pronounced velocity anomalies, including high Vp / Vs ratios beneath Lipari and Vulcano, compatible with fluid‐rich zones, and low Vp / Vs anomalies compatible with gas‐ or vapor‐dominated reservoir",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1029/2026gl121686",
+      "doi": "10.1029/2026gl121686",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -130,6 +176,46 @@
       "source": "OpenAlex"
     },
     {
+      "id": "doi:10.1029/2025gl120991",
+      "title": "Shallow Poroelastic Hydrothermal Deformation at Changbaishan Volcano Before the 2020 Unrest Revealed by Sentinel‐1 InSAR Time Series",
+      "authors": [
+        "Xingjun Luo",
+        "Wenbin Xu",
+        "Nicolas Oestreicher",
+        "Joël Ruch"
+      ],
+      "published": "2026-10-01",
+      "topic": "Volcanología",
+      "venue": "Geophysical Research Letters",
+      "abstract_original": "Abstract Ground deformation of dormant volcanoes provides critical insights into subsurface processes and potential hazards. Here we present Sentinel‐1 Interferometric Synthetic Aperture Radar (InSAR) time series (2015–2020) for Changbaishan volcano, the largest intraplate volcanic system in East Asia. We detect persistent subsidence of up to 3.5 mm/yr on the eastern flank of the summit prior to minor unrest in December 2020. Geodetic inversion locates the deformation source within a shallow hydrothermal system 2.7 ± 0.3 km beneath the summit. Constrained by independent CO 2 ‐flux estimates, poroelastic models reproduce the observed deformati",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1029/2025gl120991",
+      "doi": "10.1029/2025gl120991",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.gca.2026.09.034",
+      "title": "Qualitative assessment of high–temperature disequilibrium sulfur isotope fractionation in the gas–silicate melt–sulfide liquid system from experiments",
+      "authors": [
+        "Shashank Prabha Mohan",
+        "Kenneth T. Koga"
+      ],
+      "published": "2026-10-01",
+      "topic": "Volcanología",
+      "venue": "Geochimica et Cosmochimica Acta",
+      "abstract_original": "Experiments using a dynamic 1–atm gas–mixing furnace simulated oxidation and reduction processes, as observed during volcanic degassing, by manipulating the oxygen (log f O 2 ) and sulfur fugacities (log f S 2 ). The experiments were designed to identify the rate–limiting processes in sulfur isotope fractionation and determine the mechanisms of exchange between silicate melt and a sulfide liquid under dynamic conditions. Six series of experiments were conducted using high–Mg olivine crystals as capsules and basalt and Fe powder as the charges. The experimental approach involved equilibrating samples at initial conditions for eight hours at 13",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.gca.2026.09.034",
+      "doi": "10.1016/j.gca.2026.09.034",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
       "id": "doi:10.11591/eei.v15i5.12694",
       "title": "Neural networks for groundwater prediction: a global literature review",
       "authors": [
@@ -178,6 +264,93 @@
       "source": "OpenAlex"
     },
     {
+      "id": "doi:10.1016/j.oregeorev.2026.107580",
+      "title": "Mechanisms of rare earth elements dispersion from the Jiaping ion-adsorption rare earth deposit, Guangxi, China: implications for exploration",
+      "authors": [
+        "Chunfang Dong",
+        "Bimin Zhang",
+        "Qiong Wu",
+        "Haonan Wang",
+        "Wenlong Sun",
+        "Zhixuan Han"
+      ],
+      "published": "2026-10-01",
+      "topic": "Geología minera",
+      "venue": "Ore Geology Reviews",
+      "abstract_original": "Ion-adsorption rare earth deposits (IAREDs) supply most of the world’s heavy rare earth elements (HREE), yet the downstream dispersion and phase partitioning of rare earth elements (REE) remain poorly constrained. We analyzed the operationally dissolved fraction (<0.45 μm), suspended particulate matter (SPM), and bed sediment along a 4.5-km stream draining the unmined Jiaping deposit in Guangxi, South China. The results of this study show that REE concentrations exhibit downstream attenuation across all media, with sediments (98.44–255.31 ppm) and SPM (66.28–182.56 ppm) constituting primary reservoirs over the dissolved phase (0.53–1.21 ppb).",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.oregeorev.2026.107580",
+      "doi": "10.1016/j.oregeorev.2026.107580",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.enggeo.2026.109118",
+      "title": "Lithological control on landslide detection and dynamics revealed by two-pass InSAR in the Northern Apennines of Italy",
+      "authors": [
+        "Atif Ahmad",
+        "Benedikt Bayer",
+        "Alessandro Mercurio",
+        "Federica Bardi",
+        "Alessandro Simoni"
+      ],
+      "published": "2026-10-01",
+      "topic": "Geomorfología",
+      "venue": "Engineering Geology",
+      "abstract_original": "This study investigates active slow-moving landslides in the Northern Apennines of Italy, where Clay Shales, Flysch rocks, and young Pliocene overconsolidated Clays (OC Clays) are the most common outcropping lithotypes. We aim to detect active slope deformations, assess geological controls, and evaluate their evolution in relation to rainfall. Sentinel-1 SAR data (2015–2022; 720 images) from both orbits were processed to generate interferograms with temporal baselines ranging from 6 to 36 days. We selected interferograms based on coherence and visual inspection before stacking them over 1-month and 1-year time scales. Longer term stacks were ",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.enggeo.2026.109118",
+      "doi": "10.1016/j.enggeo.2026.109118",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.oregeorev.2026.107577",
+      "title": "Geochemistry of beryllium in coals: A review with emphasis on Chinese coals",
+      "authors": [
+        "Jian Chen",
+        "Min Feng",
+        "Yang Li",
+        "Xindi Zhang",
+        "Wanqiu Xie",
+        "Xing Liu",
+        "Ajuan Wang"
+      ],
+      "published": "2026-10-01",
+      "topic": "Geología minera",
+      "venue": "Ore Geology Reviews",
+      "abstract_original": "Beryllium (Be), one of the lightest metals, is widely used at a high cost and considered as a critical element in many strategic fields. Beryllium is traditionally extracted from pegmatites and hydrothermal deposits. Although Be in coals is of both resources and environmental significance, it has been incidentally reported in most Chinese coals. A special synthesis of Be in Chinese coals, however, is unavailable. Based on the accessed data on Be concentrations in Chinese coals and authors’ case study, a compilation of its abundance, temporal and spatial distribution, modes of occurrence, enrichment factors, behavior and fate during coal utili",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.oregeorev.2026.107577",
+      "doi": "10.1016/j.oregeorev.2026.107577",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.dwt.2026.101961",
+      "title": "From brine chemistry to flowsheet: A screening framework for direct lithium extraction in geothermal and oilfield co-production settings",
+      "authors": [
+        "Mahmoud M. AlGaiar"
+      ],
+      "published": "2026-10-01",
+      "topic": "Geología minera",
+      "venue": "Desalination and Water Treatment",
+      "abstract_original": "Direct lithium extraction (DLE) from geothermal and oilfield brines is supported by many technology reviews, yet an operator holding a brine analysis still lacks a structured route to a defensible choice of technology. The review organizes published evidence into a decision-directional screening framework mapping a co-produced brine’s chemistry, flow rate, reinjection specification and thermal integration limits onto the DLE families that remain feasible, those excluded, and the pre-treatment train implied. Chemistry windows are compiled for sorbents, ion sieves, membranes, electrochemical routes, capacitive deionization and solvent extractio",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.dwt.2026.101961",
+      "doi": "10.1016/j.dwt.2026.101961",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
       "id": "doi:10.66104/62hc2c08",
       "title": "From Copper Price to Project NPV: Metal Prices, Acid Costs, TC/RCs, Freight, CAPEX, OPEX, Taxes, Ramp-Up, and Financial Resilience in Integrated Oxide–Sulfide Copper Projects — A Critical Review",
       "authors": [
@@ -192,6 +365,53 @@
       "application": "",
       "url": "https://doi.org/10.66104/62hc2c08",
       "doi": "10.66104/62hc2c08",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1029/2026jd046934",
+      "title": "Field Evidence of Sand Impact‐Controlled Dust Emission From a High‐Elevation Source Region on the Northeastern Tibetan Plateau",
+      "authors": [
+        "Zhengcai Zhang",
+        "Lingguang Zhang",
+        "Yan Zhang",
+        "Lanying Han",
+        "Zhibao Dong"
+      ],
+      "published": "2026-10-01",
+      "topic": "Geomorfología",
+      "venue": "Journal of Geophysical Research Atmospheres",
+      "abstract_original": "Abstract The impact of saltating sand grains on the ground surface is a fundamental mechanism driving both sand transport and dust emission in aeolian research. In low‐air‐density and high‐elevation regions, the dynamic conditions of dust emission are different with low‐elevation regions, which leads to various aeolian sand transport processes and further affects the cycle of sand and dust around the world. Due to the scarcity of field measurements, this process remains poorly understood in high‐elevation regions (>3,000 m). This study investigates the number and kinetic energy (KE) of transported sand grains, sand transport rate ( Q ), and P",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1029/2026jd046934",
+      "doi": "10.1029/2026jd046934",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.1016/j.nhres.2026.09.007",
+      "title": "Explainable Machine Learning-Based Multi-Hazard Risk Assessment and Upazila-Level Intervention Prioritization in the Chattogram Region, Bangladesh",
+      "authors": [
+        "Md. Tahsinur Rahman",
+        "Sayed Abu Johany",
+        "Md Sabit Mia",
+        "Sajid Ibne Jamalfaisal",
+        "Zakia Sultana Teasa",
+        "Md. Kamruzzaman Tusar",
+        "Fahmida Alam Bintu",
+        "Md. Mahmudul Hasan"
+      ],
+      "published": "2026-10-01",
+      "topic": "Geomorfología",
+      "venue": "Natural Hazards Research",
+      "abstract_original": "The increasing occurrence of natural hazards, either individually or in combination, has intensified disaster risk worldwide, with the Chattogram Region of Bangladesh representing a prominent multi-hazard hotspot where earthquakes, landslides, and floods frequently coexist. An interpretable GIS–ML-based multi-hazard risk assessment (MHRA) framework was developed to generate earthquake, landslide, and flood susceptibility zones (EQSZ, LSSZ, and FSZ) using ensemble machine learning algorithms, with model predictions explained through SHapley Additive exPlanations (SHAP). The resulting susceptibility maps were integrated into a Multi-Hazard Inde",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1016/j.nhres.2026.09.007",
+      "doi": "10.1016/j.nhres.2026.09.007",
       "status": "automatic",
       "source": "OpenAlex"
     },
@@ -273,6 +493,28 @@
       "source": "OpenAlex"
     },
     {
+      "id": "doi:10.1186/s40623-026-02550-4",
+      "title": "The electrical resistivity model of the Australian lithosphere",
+      "authors": [
+        "Alexander V. Grayver",
+        "Stephan Thiel",
+        "Jingming Duan",
+        "Federico Munch",
+        "Graham Heinson"
+      ],
+      "published": "2026-09-30",
+      "topic": "Geofísica",
+      "venue": "Earth Planets and Space",
+      "abstract_original": "We present a new 3D electrical resistivity model of the entire Australian subcontinental lithosphere, which we call the Australian Multiscale Model of Electrical Resistivity (AusMMER). The AusMMER is derived from the joint inversion of magnetotelluric (MT) responses from the currently available part of the AusLAMP and state arrays, geomagnetic responses from observatories, and the legacy Australia-Wide Array of Geomagnetic Stations (AWAGS). In total, we invert plane-wave transfer functions from 1,394 MT sites and 60 geomagnetic stations at periods between 10 and 10,000 s. The inversion uses a distributed 3D finite-element electromagnetic solv",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.1186/s40623-026-02550-4",
+      "doi": "10.1186/s40623-026-02550-4",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
       "id": "doi:10.5027/andgeov53n3-3860",
       "title": "The Tálar Caldera and its products: the southernmost centre of the Altiplano-Puna Volcanic Complex ignimbrite flare-up (Central Andes)",
       "authors": [
@@ -315,6 +557,24 @@
       "application": "",
       "url": "https://doi.org/10.3389/fenvs.2026.1908736",
       "doi": "10.3389/fenvs.2026.1908736",
+      "status": "automatic",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "doi:10.17798/bitlisfen.1869499",
+      "title": "Seismicity Parameters of the Westernmost Part of the North Anatolian Fault Zone (NAFZ)",
+      "authors": [
+        "Burçin Didem Tamtaş"
+      ],
+      "published": "2026-09-30",
+      "topic": "Tectónica activa",
+      "venue": "Bitlis Eren Üniversitesi Fen Bilimleri Dergisi",
+      "abstract_original": "This study characterizes seismicity and stress regime in the westernmost part of the North Anatolian Fault Zone (NAFZ), focusing on the Saros segment, where dextral strike-slip deformation transitions into the transtensional northern Aegean domain. Unlike previous regional studies that combine Marmara and broader Aegean datasets or focus on individual rupture sequences, this study isolates a coordinate-bounded transition window to quantify the intrinsic seismic behavior of the terminal NAFZ–North Aegean Trough (NAT) linkage zone within a completeness-controlled framework. A December 1917–September 2025 earthquake catalog was compiled and homo",
+      "abstract_language": "source",
+      "explanation_es": "",
+      "application": "",
+      "url": "https://doi.org/10.17798/bitlisfen.1869499",
+      "doi": "10.17798/bitlisfen.1869499",
       "status": "automatic",
       "source": "OpenAlex"
     },
