@@ -1,6 +1,8 @@
 # GeoPulso · Feed Geológico
 
-Plataforma abierta de formación y actualización profesional en geociencias, creada por **Henry P. Conteron Moreta**.
+> **Proyecto integrado en [Ecuador Vivo](https://henryconteron.github.io/ecuador-vivo/).** Este repositorio queda preservado como antecedente histórico y ya no recibe actualizaciones. La biblioteca curada de estudios ecuatorianos, las experiencias educativas y los datos verificables continúan en [henryconteron/ecuador-vivo](https://github.com/henryconteron/ecuador-vivo).
+
+Plataforma abierta de formación y actualización profesional en geociencias, creada por **Henry P. Conteron Moreta**. Esta versión se conserva para mantener trazabilidad y enlaces antiguos.
 
 GeoPulso conecta fundamentos con tareas reales de campo, laboratorio y oficina en minería, petróleo, energía, geotecnia, SIG y geofísica. La biblioteca científica conserva DOI, autores, fechas, abstracts disponibles y enlaces originales.
 
